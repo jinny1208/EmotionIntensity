@@ -1,0 +1,10 @@
+python 3.8
+pip3 install torch torchvision torchaudio
+conda install -c conda-forge tensorboard
+pip install packaging
+pip install transformers
+conda install -c conda-forge librosa
+conda install -c conda-forge scipy
+pip install Unidecode
+unset LD_LIBRARY_PATH # cudnn 관련 에러 나올 경우
+onesided = True 다음 "return_complex=False" 넣기 # stft 관련 에러 나올 경우
