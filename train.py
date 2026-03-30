@@ -1,8 +1,4 @@
 import os
-import json
-import argparse
-import itertools
-import math
 import torch
 from torch import nn, optim
 from torch.nn import functional as F
@@ -34,8 +30,7 @@ from losses import (
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 from text.symbols import symbols
 
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "2,3,4"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "2,3,4"
 
 
 torch.backends.cudnn.benchmark = True
@@ -56,6 +51,8 @@ def main():
 
 
 def run(rank, n_gpus, hps):
+  print(f"model_dir = {hps.model_dir}")
+  print(f"Looking for: {utils.latest_checkpoint_path(hps.model_dir, 'G_*.pth')}")
   global global_step
   if rank == 0:
     logger = utils.get_logger(hps.model_dir)
@@ -110,7 +107,9 @@ def run(rank, n_gpus, hps):
     _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)
     _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d, optim_d)
     global_step = (epoch_str - 1) * len(train_loader)
+    print(f"Resumed from epoch {epoch_str}, step {global_step}")
   except:
+    print("No checkpoint found, starting fresh")
     epoch_str = 1
     global_step = 0
 
@@ -231,8 +230,28 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 
       if global_step % hps.train.eval_interval == 0:
         evaluate(hps, net_g, eval_loader, writer_eval)
-        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
-        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+        # utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
+        # utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch,
+          os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
+        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch,
+          os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+
+        # 2. Weights-only checkpoint — for future fine-tuning
+        torch.save({
+            'model': net_g.module.state_dict(),  # clean keys, no DDP prefix
+            'step': global_step,
+            'epoch': epoch,
+            'hps': hps,
+            'components': {                       # save each component separately
+                'enc_p':   net_g.module.enc_p.state_dict(),
+                'dec':     net_g.module.dec.state_dict(),
+                'enc_q':   net_g.module.enc_q.state_dict(),
+                'flow':    net_g.module.flow.state_dict(),
+                'spk_enc': net_g.module.spk_enc.state_dict(),
+                'dp':      net_g.module.dp.state_dict(),
+            },
+        }, os.path.join(hps.model_dir, "G_weights_{}.pth".format(global_step)))
     global_step += 1
   
   if rank == 0:

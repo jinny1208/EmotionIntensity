@@ -146,9 +146,12 @@ def get_hparams(init=True):
                       help='JSON file for configuration')
   parser.add_argument('-m', '--model', type=str, default="vctk_base-test",
                       help='Model name')
+  parser.add_argument('-o', '--output_dir', type=str,  # ← add this
+                      default="/home/mila/j/jeony/scratch/EmotionIntensity_runs",
+                      help='Root directory for saving checkpoints')
   
   args = parser.parse_args()
-  model_dir = os.path.join("./logs", args.model)
+  model_dir = os.path.join(args.output_dir, args.model)  # ← change this line
 
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
