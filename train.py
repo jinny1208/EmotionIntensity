@@ -1,3 +1,26 @@
+"""
+train_finetune.py  —  Finetune face-conditioned emotion VITS on MEAD
+                       starting from a VCTK multispeaker checkpoint.
+
+What is frozen:
+    - enc_p  (text encoder)  — keeps VCTK phoneme representations intact
+
+What is trained:
+    - face_enc               — NEW: face image → style vector (random init)
+    - flow                   — adapts normalising flow to emotion styles
+    - dec                    — adapts waveform decoder to emotion prosody
+    - enc_q                  — adapts posterior encoder
+    - dp                     — adapts duration predictor
+    - spk_enc                — kept trainable but not used in forward pass
+                               (will naturally receive no gradients)
+
+What is NOT loaded from VCTK checkpoint:
+    - face_enc               — new module, initialised randomly
+
+Usage:
+    python train_finetune.py -c configs/mead.json -m mead_finetune
+"""
+
 import os
 import torch
 from torch import nn, optim
@@ -8,7 +31,6 @@ import torch.multiprocessing as mp
 import torch.distributed as dist
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.cuda.amp import autocast, GradScaler
-from transformers import Wav2Vec2FeatureExtractor, UniSpeechSatForXVector
 
 import commons
 import utils
@@ -36,6 +58,8 @@ from text.symbols import symbols
 torch.backends.cudnn.benchmark = True
 global_step = 0
 
+VCTK_CHECKPOINT = "G_350000.pth"   # path to VCTK backbone checkpoint
+
 
 def main():
   """Assume Single Node Multi GPUs Training Only"""
@@ -44,7 +68,7 @@ def main():
 
   n_gpus = torch.cuda.device_count()
   os.environ['MASTER_ADDR'] = 'localhost'
-  os.environ['MASTER_PORT'] = '31499'
+  os.environ['MASTER_PORT'] = '31500' # vctk: 31499, mead: 31500
 
   hps = utils.get_hparams()
   mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
@@ -88,30 +112,73 @@ def run(rank, n_gpus, hps):
       hps.train.segment_size // hps.data.hop_length,
       **hps.model).cuda(rank)
   net_d = MultiPeriodDiscriminator(hps.model.use_spectral_norm).cuda(rank)
+  # ── load VCTK checkpoint into net_g (strict=False skips face_enc) ────────
+  _load_vctk_checkpoint(net_g, hps.train.vctk_checkpoint, rank, logger if rank == 0 else None)
+
+  # ── freeze text encoder ───────────────────────────────────────────────────
+  _freeze_module(net_g.enc_p, "enc_p")
+
+  # ── optimizers ────────────────────────────────────────────────────────────
+  # face_enc gets a higher LR since it starts from random init
+  face_enc_params  = list(net_g.face_enc.parameters())
+  other_params     = [p for n, p in net_g.named_parameters()
+                      if p.requires_grad and not n.startswith("face_enc")]
+
+    
+  #### VCTK training ####
+  # optim_g = torch.optim.AdamW(
+  #     net_g.parameters(), 
+  #     hps.train.learning_rate, 
+  #     betas=hps.train.betas, 
+  #     eps=hps.train.eps)
+  # g_param = sum(param.numel() for name,param in net_g.named_parameters() if 'enc_q' not in name)
+  # print('total parameters:', g_param)
+
+  #### Face encoder MEAD ####
   optim_g = torch.optim.AdamW(
-      net_g.parameters(), 
-      hps.train.learning_rate, 
-      betas=hps.train.betas, 
-      eps=hps.train.eps)
-  g_param = sum(param.numel() for name,param in net_g.named_parameters() if 'enc_q' not in name)
-  print('total parameters:', g_param)
+        [
+            {"params": face_enc_params, "lr": hps.train.learning_rate * 5,
+             "betas": hps.train.betas, "eps": hps.train.eps},
+            {"params": other_params,    "lr": hps.train.learning_rate,
+             "betas": hps.train.betas, "eps": hps.train.eps},
+        ]
+    )
+  ###########################
+
   optim_d = torch.optim.AdamW(
       net_d.parameters(),
       hps.train.learning_rate, 
       betas=hps.train.betas, 
       eps=hps.train.eps)
-  net_g = DDP(net_g, device_ids=[rank])
+  
+  #### VCTK training ####
+  # net_g = DDP(net_g, device_ids=[rank])
+  #######################
+
+  #### MEAD Face ####
+  net_g = DDP(net_g, device_ids=[rank], find_unused_parameters=True)
   net_d = DDP(net_d, device_ids=[rank])
 
   try:
     _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)
     _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d, optim_d)
     global_step = (epoch_str - 1) * len(train_loader)
+
+    ### MEAD ###
+    if rank == 0:
+            logger.info(f"Resumed finetune from epoch {epoch_str}, step {global_step}")
+    ############
+
     print(f"Resumed from epoch {epoch_str}, step {global_step}")
   except:
     print("No checkpoint found, starting fresh")
     epoch_str = 1
     global_step = 0
+
+    ### MEAD ###
+    if rank == 0:
+            logger.info("No finetune checkpoint found — starting fresh from VCTK weights")
+    ############
 
   scheduler_g = torch.optim.lr_scheduler.ExponentialLR(optim_g, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
   scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
@@ -140,14 +207,18 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 
   net_g.train()
   net_d.train()
-  for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in enumerate(train_loader):
+  for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, face, emotion, intensity) in enumerate(train_loader):
     x, x_lengths = x.cuda(rank, non_blocking=True), x_lengths.cuda(rank, non_blocking=True)
     spec, spec_lengths = spec.cuda(rank, non_blocking=True), spec_lengths.cuda(rank, non_blocking=True)
     y, y_lengths = y.cuda(rank, non_blocking=True), y_lengths.cuda(rank, non_blocking=True)
+    face = face.cuda(rank, non_blocking=True)
+    emotion = emotion.cuda(rank, non_blocking=True)
+    intensity = intensity.cuda(rank, non_blocking=True)
+
 
     with autocast(enabled=hps.train.fp16_run):
       y_hat, l_length, attn, ids_slice, x_mask, z_mask,\
-      (z, z_p, m_p, logs_p, m_q, logs_q) = net_g(x, x_lengths, spec, spec_lengths)
+      (z, z_p, m_p, logs_p, m_q, logs_q) = net_g(x, x_lengths, spec, spec_lengths, face)
 
       mel = spec_to_mel_torch(
           spec, 
@@ -205,9 +276,15 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
       if global_step % hps.train.log_interval == 0:
         lr = optim_g.param_groups[0]['lr']
         losses = [loss_disc, loss_gen, loss_fm, loss_mel, loss_dur, loss_kl]
-        logger.info('Train Epoch: {} [{:.0f}%]'.format(
-          epoch,
-          100. * batch_idx / len(train_loader)))
+        #### VCTK ####
+        # logger.info('Train Epoch: {} [{:.0f}%]'.format(
+        #   epoch,
+        #   100. * batch_idx / len(train_loader)))
+        ##############
+
+        #### MEAD ####
+        logger.info(f'Finetune Epoch: {epoch} [{100.*batch_idx/len(train_loader):.0f}%]')
+        ##############
         logger.info([x.item() for x in losses] + [global_step, lr])
         
         scalar_dict = {"loss/g/total": loss_gen_all, "loss/d/total": loss_disc_all, "learning_rate": lr, "grad_norm_d": grad_norm_d, "grad_norm_g": grad_norm_g}
@@ -248,7 +325,8 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
                 'dec':     net_g.module.dec.state_dict(),
                 'enc_q':   net_g.module.enc_q.state_dict(),
                 'flow':    net_g.module.flow.state_dict(),
-                'spk_enc': net_g.module.spk_enc.state_dict(),
+                # 'spk_enc': net_g.module.spk_enc.state_dict(),
+                'face_enc': net_g.module.face_enc.state_dict(),
                 'dp':      net_g.module.dp.state_dict(),
             },
         }, os.path.join(hps.model_dir, "G_weights_{}.pth".format(global_step)))
@@ -261,10 +339,11 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 def evaluate(hps, generator, eval_loader, writer_eval):
     generator.eval()
     with torch.no_grad():
-      for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in enumerate(eval_loader):
+      for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, face, emotion, intensity) in enumerate(eval_loader):
         x, x_lengths = x.cuda(0), x_lengths.cuda(0)
         spec, spec_lengths = spec.cuda(0), spec_lengths.cuda(0)
         y, y_lengths = y.cuda(0), y_lengths.cuda(0)
+        face = face.cuda(0)
 
         # remove else
         x = x[:1]
@@ -273,8 +352,9 @@ def evaluate(hps, generator, eval_loader, writer_eval):
         spec_lengths = spec_lengths[:1]
         y = y[:1]
         y_lengths = y_lengths[:1]
+        face = face[:1]
         break
-      y_hat, attn, mask, *_ = generator.module.infer(x, x_lengths, spec, max_len=1000)
+      y_hat, attn, mask, *_ = generator.module.infer(x, x_lengths, face, max_len=1000)
       y_hat_lengths = mask.sum([1,2]).long() * hps.data.hop_length
 
       mel = spec_to_mel_torch(
@@ -312,6 +392,74 @@ def evaluate(hps, generator, eval_loader, writer_eval):
       audio_sampling_rate=hps.data.sampling_rate
     )
     generator.train()
+
+
+# ── checkpoint loading helpers ────────────────────────────────────────────────
+
+def _load_vctk_checkpoint(model: nn.Module, checkpoint_path: str, rank: int, logger=None):
+    """
+    Load VCTK weights into model.
+    - Keys that exist in both: loaded normally
+    - Keys only in checkpoint (e.g. emb_g speaker table): skipped
+    - Keys only in model (e.g. face_enc): left as random init
+    Uses strict=False so mismatches are handled gracefully.
+    """
+    if not os.path.isfile(checkpoint_path):
+        raise FileNotFoundError(f"VCTK checkpoint not found: {checkpoint_path}")
+
+    checkpoint = torch.load(checkpoint_path, map_location=f"cuda:{rank}")
+
+    # utils.load_checkpoint wraps the model in OrderedDict with 'model' key
+    # depending on your utils implementation; handle both cases
+    if "model" in checkpoint:
+        state_dict = checkpoint["model"]
+    elif "state_dict" in checkpoint:
+        state_dict = checkpoint["state_dict"]
+    else:
+        # VITS saves as the raw state dict inside a tuple sometimes
+        # try loading via utils to be safe
+        try:
+            _, _, _, _ = utils.load_checkpoint(checkpoint_path, model, None)
+            if logger:
+                logger.info(f"Loaded VCTK checkpoint via utils: {checkpoint_path}")
+            _report_loaded_keys(model, state_dict=None, logger=logger)
+            return
+        except Exception as e:
+            raise RuntimeError(f"Could not parse checkpoint: {e}")
+
+    # strip DDP 'module.' prefix if present
+    state_dict = {k.replace("module.", ""): v for k, v in state_dict.items()}
+
+    missing, unexpected = model.load_state_dict(state_dict, strict=False)
+
+    if logger:
+        logger.info(f"Loaded VCTK checkpoint: {checkpoint_path}")
+        if missing:
+            logger.info(f"  Keys in model not in checkpoint (random init): {missing}")
+        if unexpected:
+            logger.info(f"  Keys in checkpoint not in model (skipped): {unexpected}")
+
+
+def _freeze_module(module: nn.Module, name: str):
+    """Freeze all parameters in a module."""
+    for p in module.parameters():
+        p.requires_grad = False
+    total = sum(p.numel() for p in module.parameters())
+    print(f"[finetune] frozen {name}: {total/1e6:.2f}M params")
+
+
+def _report_loaded_keys(model, state_dict, logger):
+    if state_dict is None:
+        return
+    model_keys = set(model.state_dict().keys())
+    ckpt_keys  = set(state_dict.keys())
+    missing    = model_keys - ckpt_keys
+    unexpected = ckpt_keys  - model_keys
+    if logger:
+        if missing:
+            logger.info(f"  Missing (random init): {sorted(missing)[:10]}...")
+        if unexpected:
+            logger.info(f"  Unexpected (skipped): {sorted(unexpected)[:10]}...")
 
                            
 if __name__ == "__main__":

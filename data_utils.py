@@ -10,6 +10,9 @@ from mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence, cleaned_text_to_sequence
 
+from PIL import Image
+import torchvision.transforms as transforms
+
 
 class TextAudioLoader(torch.utils.data.Dataset):
     """
@@ -49,20 +52,26 @@ class TextAudioLoader(torch.utils.data.Dataset):
         audiopaths_and_text_new = []
         lengths = []
         # print(self.audiopaths_and_text)
-        for audiopath, text, *othervalues in self.audiopaths_and_text:
+        for audiopath, face, text, emotion, intensity, *othervalues in self.audiopaths_and_text:
             if othervalues: print(othervalues)
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_and_text_new.append([audiopath, text])
+                audiopaths_and_text_new.append([audiopath, face, text, emotion, intensity])
                 lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
 
     def get_audio_text_pair(self, audiopath_and_text):
         # separate filename and text
-        audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
+        audiopath, face, text, emotion, intensity = audiopath_and_text[0], audiopath_and_text[1], audiopath_and_text[2], audiopath_and_text[3], audiopath_and_text[4]
         text = self.get_text(text)
         spec, wav = self.get_audio(audiopath)
-        return (text, spec, wav)
+
+        img_embedding = self.load_face_image(face, target_size=160)
+
+        ### age, gender, race processing into list:
+        emotion_label, intensity_label = self.get_emotion_attributes(emotion, intensity)
+    
+        return (text, spec, wav, img_embedding, emotion_label, intensity_label)
 
     def get_audio(self, filename):
         audio, sampling_rate = load_wav_to_torch(filename)
@@ -92,6 +101,39 @@ class TextAudioLoader(torch.utils.data.Dataset):
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 
+    def get_emotion_attributes(self, emotion, intensity):
+        emotion_attributes = ['happy', 'sad', 'angry', 'surprised', 'fear', 'neutral']
+        intensity_attributes = ['level1', 'level2', 'level3']
+
+        # One-hot encoding
+        emotion_value = torch.zeros(len(emotion_attributes), dtype=torch.long)
+        emotion_value[emotion_attributes.index(emotion)] = 1
+
+        intensity_value = torch.zeros(len(intensity_attributes), dtype=torch.long)
+        intensity_value[intensity_attributes.index(intensity)] = 1
+
+        return emotion_value, intensity_value
+
+    def load_face_image(face_path: str, target_size: int = 160) -> torch.Tensor:
+        """
+        Load a face image with aspect-ratio-preserving resize + center crop.
+        
+        Strategy:
+        1. Resize the shorter side to target_size (preserves aspect ratio)
+        2. Center crop to target_size × target_size (square, no distortion)
+        3. Convert to float tensor (B, 3, H, W) in [0, 255]
+        
+        This avoids squishing wide/tall faces into a square directly.
+        """
+        transform = transforms.Compose([
+            transforms.Resize(target_size),           # shorter side → 160, aspect ratio kept
+            transforms.CenterCrop(target_size),        # square crop from center
+            transforms.ToTensor(),                     # (3, H, W), values in [0, 1]
+            transforms.Lambda(lambda x: x * 255.0),   # scale to [0, 255] to match FaceEncoder
+        ])
+        img = Image.open(face_path).convert("RGB")    # ensure 3-channel even for grayscale
+        return transform(img)
+    
     def __getitem__(self, index):
         return self.get_audio_text_pair(self.audiopaths_and_text[index])
 
@@ -109,7 +151,7 @@ class TextAudioCollate():
         """Collate's training batch from normalized text and aduio
         PARAMS
         ------
-        batch: [text_normalized, spec_normalized, wav_normalized]
+        batch: [text_normalized, spec_normalized, wav_normalized, face_normalized, emotion, intensity]
         """
         # Right zero-pad all one-hot text sequences to max input length
         _, ids_sorted_decreasing = torch.sort(
@@ -124,12 +166,17 @@ class TextAudioCollate():
         spec_lengths = torch.LongTensor(len(batch))
         wav_lengths = torch.LongTensor(len(batch))
 
+        emotion_label = torch.LongTensor(len(batch), 6)
+        intensity_label = torch.LongTensor(len(batch), 3)
+
         text_padded = torch.LongTensor(len(batch), max_text_len)
         spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len)
         wav_padded = torch.FloatTensor(len(batch), 1, max_wav_len)
+        face_padded = torch.FloatTensor(len(batch), 3, 160, 160)
         text_padded.zero_()
         spec_padded.zero_()
         wav_padded.zero_()
+        face_padded.zero_() # shape: batch, 3, 160, 160
         for i in range(len(ids_sorted_decreasing)):
             row = batch[ids_sorted_decreasing[i]]
 
@@ -145,9 +192,15 @@ class TextAudioCollate():
             wav_padded[i, :, :wav.size(1)] = wav
             wav_lengths[i] = wav.size(1)
 
+            face = row[3]
+            face_padded[i, :face.size(0), :face.size(1), :face.size(2)] = face
+            
+            emotion_label[i] = row[4]
+            intensity_label[i] = row[5]
+
         if self.return_ids:
-            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, ids_sorted_decreasing
-        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths
+            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, face_padded, emotion_label, intensity_label, ids_sorted_decreasing
+        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, face_padded, emotion_label, intensity_label
 
 
 """Multi speaker version"""

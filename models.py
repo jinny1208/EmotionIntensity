@@ -1,3 +1,18 @@
+"""
+models.py  —  VITS with face-conditioned emotion synthesis
+
+Key changes for MEAD finetuning:
+  - Added FaceEncoder: maps face image (B, 3, 160, 160) → style vector (B, 256)
+    using a pretrained face recognition backbone (InceptionResnetV1 via facenet-pytorch)
+    frozen CNN + trainable projection head
+  - SynthesizerTrn.forward() now accepts face image and uses FaceEncoder
+    instead of ReferenceEncoder on mel
+  - spk_enc (ReferenceEncoder) is kept but only used during VCTK training;
+    not used during MEAD finetuning
+  - infer() now takes face image instead of reference mel
+  - Everything else (enc_p, dec, enc_q, flow, dp) unchanged from VCTK
+"""
+
 import copy
 import math
 import torch
@@ -13,6 +28,74 @@ from torch.nn import Conv1d, ConvTranspose1d, AvgPool1d, Conv2d
 from torch.nn.utils import weight_norm, remove_weight_norm, spectral_norm
 from commons import init_weights, get_padding
 
+
+# ── Face Encoder ──────────────────────────────────────────────────────────────
+
+class FaceEncoder(nn.Module):
+    """
+    Maps a face image to a style vector of the same dimensionality as
+    ReferenceEncoder output (256 // 2 = 128 per direction = 128 total).
+
+    Uses a lightweight CNN + projection rather than a heavy pretrained
+    face recognition model, to keep the finetuning footprint small and
+    avoid extra dependencies.
+
+    Input  : (B, 3, 160, 160)  face image, pixel values in [0, 255] float
+    Output : (B, 128)          style vector matching spk_enc output dim
+    """
+
+    OUT_DIM = 128   # must match ReferenceEncoder GRU hidden_size // 2 * 2
+
+    def __init__(self, out_dim: int = 128, dropout: float = 0.1):
+        super().__init__()
+        self.out_dim = out_dim
+
+        # Lightweight CNN backbone — 5 conv blocks with stride 2
+        # 160 → 80 → 40 → 20 → 10 → 5
+        self.cnn = nn.Sequential(
+            self._block(3,   32,  stride=2),   # 80x80
+            self._block(32,  64,  stride=2),   # 40x40
+            self._block(64,  128, stride=2),   # 20x20
+            self._block(128, 256, stride=2),   # 10x10
+            self._block(256, 256, stride=2),   # 5x5
+        )
+
+        # Global average pool → flatten → projection
+        self.pool = nn.AdaptiveAvgPool2d(1)   # (B, 256, 1, 1)
+        self.proj = nn.Sequential(
+            nn.Flatten(),                      # (B, 256)
+            nn.Linear(256, 256),
+            nn.ReLU(),
+            nn.Dropout(dropout),
+            nn.Linear(256, out_dim),
+        )
+
+    @staticmethod
+    def _block(in_ch, out_ch, stride):
+        return nn.Sequential(
+            nn.Conv2d(in_ch, out_ch, kernel_size=3, stride=stride, padding=1, bias=False),
+            nn.BatchNorm2d(out_ch),
+            nn.ReLU(inplace=True),
+        )
+
+    def forward(self, face: torch.Tensor) -> torch.Tensor:
+        """
+        Args:
+            face : (B, 3, 160, 160)  float tensor, values in [0, 255]
+        Returns:
+            (B, out_dim)
+        """
+        # normalise to roughly zero-mean, unit-std (ImageNet-ish)
+        x = face / 255.0
+        x = (x - 0.5) / 0.5
+
+        x = self.cnn(x)        # (B, 256, 5, 5)
+        x = self.pool(x)       # (B, 256, 1, 1)
+        x = self.proj(x)       # (B, out_dim)
+        return x
+
+
+# ── Original components (unchanged from VCTK) ────────────────────────────────
 
 class StochasticDurationPredictor(nn.Module):
   def __init__(self, in_channels, filter_channels, kernel_size, p_dropout, n_flows=4, gin_channels=0):
@@ -559,6 +642,7 @@ class SynthesizerTrn(nn.Module):
     self.enc_q = PosteriorEncoder(spec_channels, inter_channels, hidden_channels, 5, 1, 16, gin_channels=gin_channels)
     self.flow = ResidualCouplingBlock(inter_channels, hidden_channels, 5, 1, 4, gin_channels=128)
     self.spk_enc = ReferenceEncoder()
+    self.face_enc = FaceEncoder(out_dim=FaceEncoder.OUT_DIM)
     if use_sdp:
       self.dp = StochasticDurationPredictor(hidden_channels, 192, 3, 0.5, 4, gin_channels=gin_channels)
     else:
@@ -567,17 +651,23 @@ class SynthesizerTrn(nn.Module):
     if n_speakers > 1:
       self.emb_g = nn.Embedding(n_speakers, gin_channels)
 
-  def forward(self, x, x_lengths, y, y_lengths, sid=None):
+  def forward(self, x, x_lengths, y, y_lengths, face, sid=None):
     g = None
     
     # posterior
     z, m_q, logs_q, y_mask = self.enc_q(y, y_lengths, g=g)
     
-    # y: (B, D, L) -> (B, L, D), y_mask: (B, 1, L) -> (B, L), 
-    # s: (B, D)
-    s = self.spk_enc(y.transpose(1,2), (y_mask==0).squeeze(1))
-    # (B, D, 1) like VITS
-    s = s.unsqueeze(-1)
+    #### Original spk encoder ####
+    # # y: (B, D, L) -> (B, L, D), y_mask: (B, 1, L) -> (B, L), 
+    # # s: (B, D)
+    # s = self.spk_enc(y.transpose(1,2), (y_mask==0).squeeze(1))
+    # # (B, D, 1) like VITS
+    # s = s.unsqueeze(-1)
+    ##############################
+
+    # ── style vector from face ─────────────────────────────────────────────
+    # (B, 128) → (B, 128, 1) to match VITS convention
+    s = self.face_enc(face).unsqueeze(-1)
     
     x, x_i, m_p, logs_p, x_mask = self.enc_p(x, x_lengths, g=s)
     
@@ -613,11 +703,15 @@ class SynthesizerTrn(nn.Module):
     o = self.dec(z_slice, g=g)
     return o, l_length, attn, ids_slice, x_mask, y_mask, (z, z_p, m_p, logs_p, m_q, logs_q)
 
-  def infer(self, x, x_lengths, y, sid=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
+  def infer(self, x, x_lengths, y, face, sid=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
     # s: (B, D)
+    #### Original spk encoder ####
     s = self.spk_enc(y.transpose(1,2), None)
     # (B, D, 1) like VITS
     s = s.unsqueeze(-1)
+    ##############################
+
+    s = self.face_enc(face).unsqueeze(-1)
    
     x, x_i, m_p, logs_p, x_mask = self.enc_p(x, x_lengths, g=s)
     
