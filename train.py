@@ -51,8 +51,6 @@ def main():
 
 
 def run(rank, n_gpus, hps):
-  print(f"model_dir = {hps.model_dir}")
-  print(f"Looking for: {utils.latest_checkpoint_path(hps.model_dir, 'G_*.pth')}")
   global global_step
   if rank == 0:
     logger = utils.get_logger(hps.model_dir)
