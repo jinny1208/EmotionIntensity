@@ -15,7 +15,8 @@
     "warmup_epochs": 0,
     "c_mel": 45,
     "c_kl": 1.0,
-    "vctk_checkpoint": "/home/mila/j/jeony/scratch/EmotionIntensity_runs/vctk_base/G_350000.pth/G_350000.pth"
+    "vctk_checkpoint": "/home/mila/j/jeony/scratch/EmotionIntensity_runs/1-Mead_base/G_350000.pth"
+    
   },
   "data": {
     "training_files":"filelists/train_MEAD_filelist_espeak_with_attrs.txt",

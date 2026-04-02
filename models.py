@@ -703,12 +703,12 @@ class SynthesizerTrn(nn.Module):
     o = self.dec(z_slice, g=g)
     return o, l_length, attn, ids_slice, x_mask, y_mask, (z, z_p, m_p, logs_p, m_q, logs_q)
 
-  def infer(self, x, x_lengths, y, face, sid=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
+  def infer(self, x, x_lengths, face, sid=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
     # s: (B, D)
     #### Original spk encoder ####
-    s = self.spk_enc(y.transpose(1,2), None)
-    # (B, D, 1) like VITS
-    s = s.unsqueeze(-1)
+    # s = self.spk_enc(y.transpose(1,2), None)
+    # # (B, D, 1) like VITS
+    # s = s.unsqueeze(-1)
     ##############################
 
     s = self.face_enc(face).unsqueeze(-1)

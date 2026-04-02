@@ -9,7 +9,7 @@ import commons
 from mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence, cleaned_text_to_sequence
-
+import pdb
 from PIL import Image
 import torchvision.transforms as transforms
 
@@ -52,7 +52,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
         audiopaths_and_text_new = []
         lengths = []
         # print(self.audiopaths_and_text)
-        for audiopath, face, text, emotion, intensity, *othervalues in self.audiopaths_and_text:
+        for audiopath, face, _, text, emotion, intensity, *othervalues in self.audiopaths_and_text:
             if othervalues: print(othervalues)
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
                 audiopaths_and_text_new.append([audiopath, face, text, emotion, intensity])
@@ -114,7 +114,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
 
         return emotion_value, intensity_value
 
-    def load_face_image(face_path: str, target_size: int = 160) -> torch.Tensor:
+    def load_face_image(self, face_path: str, target_size: int = 160) -> torch.Tensor:
         """
         Load a face image with aspect-ratio-preserving resize + center crop.
         
