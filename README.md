@@ -40,3 +40,7 @@ See [inference.ipynb](inference.ipynb)
 do not use branch 1 and 2-1-pretrainedFacenet-baseline2withloss
 
 instead for experimental comparisons, use branch 2-0-pretrainedFaceNet-baseline
+
+
+#### NOTES 260402
+See branch 1-basicEmotion for MEAD filelists
