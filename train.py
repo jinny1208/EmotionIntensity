@@ -113,7 +113,7 @@ def run(rank, n_gpus, hps):
       **hps.model).cuda(rank)
   net_d = MultiPeriodDiscriminator(hps.model.use_spectral_norm).cuda(rank)
   # ── load VCTK checkpoint into net_g (strict=False skips face_enc) ────────
-  _load_vctk_checkpoint(net_g, hps.train.vctk_checkpoint, rank, logger if rank == 0 else None)
+  # _load_vctk_checkpoint(net_g, hps.train.vctk_checkpoint, rank, logger if rank == 0 else None)
 
   # ── freeze text encoder ───────────────────────────────────────────────────
   _freeze_module(net_g.enc_p, "enc_p")
@@ -160,25 +160,31 @@ def run(rank, n_gpus, hps):
   net_d = DDP(net_d, device_ids=[rank])
 
   try:
-    _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)
-    _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d, optim_d)
+    _, _, _, epoch_str = utils.load_checkpoint(
+        utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)
+    _, _, _, epoch_str = utils.load_checkpoint(
+        utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d, optim_d)
     global_step = (epoch_str - 1) * len(train_loader)
-
-    ### MEAD ###
     if rank == 0:
-            logger.info(f"Resumed finetune from epoch {epoch_str}, step {global_step}")
-    ############
-
+        logger.info(f"Resumed MEAD finetune from epoch {epoch_str}, step {global_step}")
     print(f"Resumed from epoch {epoch_str}, step {global_step}")
-  except:
-    print("No checkpoint found, starting fresh")
-    epoch_str = 1
-    global_step = 0
 
-    ### MEAD ###
-    if rank == 0:
-            logger.info("No finetune checkpoint found — starting fresh from VCTK weights")
-    ############
+  except:
+      # no MEAD checkpoint — load VCTK backbone instead
+      if rank == 0:
+          logger.info("No MEAD checkpoint found — loading VCTK backbone")
+      _load_vctk_checkpoint(net_g, hps.train.vctk_checkpoint, rank, 
+                            logger if rank == 0 else None)
+      epoch_str   = 1
+      global_step = 0
+      if rank == 0:
+          logger.info("Starting fresh finetune from VCTK weights")
+      print("No MEAD checkpoint found, starting from VCTK")
+
+    # ### MEAD ###
+    # if rank == 0:
+    #         logger.info("No finetune checkpoint found — starting fresh from VCTK weights")
+    # ############
 
   scheduler_g = torch.optim.lr_scheduler.ExponentialLR(optim_g, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
   scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
