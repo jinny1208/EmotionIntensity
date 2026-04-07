@@ -15,8 +15,8 @@ conda activate 1-mila
 
 cd /home/mila/j/jeony/EmotionIntensity
 
-## For resuming
-# python train.py -c configs/vctk_base.json -m vctk_base \
-#   -o /home/mila/j/jeony/scratch/EmotionIntensity_runs
+# For resuming
+python train.py -c configs/vctk_base.json -m 0-vctk_base \
+  -o /home/mila/j/jeony/scratch/EmotionIntensity_runs
 
-python train.py -c configs/vctk_base.json -m vctk_base 
+# python train.py -c configs/vctk_base.json -m vctk_base 

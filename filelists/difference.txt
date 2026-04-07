@@ -1,0 +1,595 @@
+DUMMY2/p234/p234_112.wav|ðæt wʊd biː ɐ sˈiəɹɪəs pɹˈɑːbləm.
+DUMMY2/p347/p347_295.wav|ɪt ɪz tˈɪpɪkəl ʌv mˌiː.
+DUMMY2/p294/p294_271.wav|ˈaɪ ˈɑːlsoʊ θˈɔːt, ðɪs ɪz ɐ fˈiːtʃɚ fˈɪlm.
+DUMMY2/p234/p234_118.wav|wˌɛn wiː lˈʊkt æt ðə kˈʌmpəni.
+DUMMY2/p245/p245_167.wav|ɪt wʌz ɐn ˈɑːd ɐfˈɛɹ, ɪn mˈɛni ɹɪspˈɛkts.
+DUMMY2/p326/p326_214.wav|ɪts nˌɑːt lˈɑːŋ ɪnˈʌf.
+DUMMY2/p294/p294_293.wav|ðæt kˈeɪs hɐz stˈɪl nˌɑːt bˌɪn sˈɛɾəld.
+DUMMY2/p302/p302_312.wav|haʊˈɛvɚ, ðɛɹwˌʌz nˈoʊ hˈoʊp, ænd ɡlˈoːɹi tˈuː, fɔːɹ skˈɑːtlənd.
+DUMMY2/p238/p238_208.wav|ðə ɹˈiːfʌnd ɪz fˈʊli dʒˈʌstɪfˌaɪd.
+DUMMY2/p248/p248_196.wav|ɪt ɪz nˌɑːt sˈæɾɪsfˌaɪd wɪððə stˈændɚd ʌv fˈaɪɚ sˈeɪfti pɹəvˈɪʒənz.
+DUMMY2/p302/p302_011.wav|wˌɛn ɐ mˈæn lˈʊks fɔːɹ sˈʌmθɪŋ bɪjˌɑːnd hɪz ɹˈiːtʃ, hɪz fɹˈɛndz sˈeɪ hiːz lˈʊkɪŋ fɚðə pˈɑːt ʌv ɡˈoʊld æt ðɪ ˈɛnd ʌvðə ɹˈeɪnboʊ.
+DUMMY2/p335/p335_279.wav|ɔːɹ ɹˈæðɚ hiː dˈɪd ænd hiː dˈɪdnt.
+DUMMY2/p234/p234_036.wav|ɪt wʌz sˈoʊld æɾə lˈɔs.
+DUMMY2/p306/p306_352.wav|hˌuː hɐz ðə sˈɛkənd hˈaɪəst?
+DUMMY2/p238/p238_093.wav|hiː sˈiːmz tə hæv ˈɛvɹɪθˌɪŋ.
+DUMMY2/p245/p245_248.wav|ɪz ðɛɹ ˌɑːn hɪz hˈændz?
+DUMMY2/p245/p245_069.wav|ʃiː dˈaɪd ɪn hˈɑːspɪɾəl tˈuː ˈaɪʊɹz lˈeɪɾɚ.
+DUMMY2/p248/p248_283.wav|mˈæloʊni ɪz ɐn ɛnɡˈeɪdʒɪŋ tˈælənt.
+DUMMY2/p234/p234_008.wav|ðiːz tˈeɪk ðə ʃˈeɪp əvə lˈɑːŋ ɹˈaʊnd ˈɑːɹtʃ, wɪð ɪts pˈæθ hˈaɪ əbˈʌv, ænd ɪts tˈuː ˈɛndz ɐpˈæɹəntli bɪjˌɑːnd ðə hɚɹˈaɪzən.
+DUMMY2/p326/p326_316.wav|ɪt sˈɜːtənli sˈaʊndᵻd ɪt æt tˈaɪmz.
+DUMMY2/p248/p248_124.wav|ˈaɪ kˈænt ˈiːvən ɡɛt ˌɪntʊ ðɪ ɐ tˈiːm.
+DUMMY2/p248/p248_300.wav|ɪt wˈʌznt dʒˈʌst ðə kˈæɹɪktɚ ænd ˈɛnɚdʒi ʌvðə plˈeɪɪŋ.
+DUMMY2/p326/p326_266.wav|ɪt mˈeɪ ˈɑːlsoʊ biː hɜː lˈæst.
+DUMMY2/p261/p261_411.wav|ˈaɪ hɐd ɐ fˈɔːɹtʃənət wˈɔːɹ.
+DUMMY2/p302/p302_040.wav|ˌɑːn fjˈuːəl, ðə tʃˈænsɛlɚ hɐz ɐ nˈʌmbɚɹ ʌv ˈɑːpʃənz.
+DUMMY2/p261/p261_081.wav|ˌaʊɚ mˈʌðɚɹ ɪz vˈɛɹi wˈʌɹɪd.
+DUMMY2/p347/p347_286.wav|ɪt ɪz dʒˈʌst tˈuː lˈɑːŋ sˈɪns ðə wˈɔːɹ.
+DUMMY2/p234/p234_019.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹɪflˈɛkʃən, bˌʌt ɹɪfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+DUMMY2/p347/p347_291.wav|ɪnʃˈʊɹəns wɪl biː kˈʌvɚd baɪ ðə ɹɪsˈiːvɪŋ ɡˈælɚɹiz.
+DUMMY2/p238/p238_295.wav|ɪt hɐzbɪn ɹɪkˈoːɹdᵻd twˈaɪs.
+DUMMY2/p248/p248_371.wav|wˈɛðɚ hɪz stˈæns ɪz ʃˈɛɹd baɪ ðɪ ˈɪnkʌmˌɪŋ mˈænɪdʒɚɹ ɪz ɐnˈʌðɚ mˈæɾɚ.
+DUMMY2/p362/p362_208.wav|ɪt wʌz kɹˈuːʃəl stɹˈaɪk.
+DUMMY2/p362/p362_116.wav|hiː ɪz ɪnvˈɑːlvd ɪn ˈɛvɹɪθˌɪŋ.
+DUMMY2/p362/p362_241.wav|bˌʌt wiː ɑːɹ wˈɜːkɪŋ təɡˌɛðɚ fɔːɹ ðɪs ɹɪzˈʌlt.
+DUMMY2/p362/p362_370.wav|plˈɑːt ɪz nˌɑːt ðɪ ˈɪʃuː.
+DUMMY2/p362/p362_353.wav|ðɪ ˈɪnsɪdənt ɪz dˈɛd.
+DUMMY2/p362/p362_408.wav|hiː dᵻklˈaɪnd təbi mˈoːɹ spəsˈɪfɪk.
+DUMMY2/p362/p362_325.wav|ɪz ðæt wʌt pˈiːpəl wˈɔnt?
+DUMMY2/p362/p362_351.wav|ɪt dˈʌzənt mˌeɪk mˌiː fˈiːl ˌɛni bˈɛɾɚ.
+DUMMY2/p362/p362_403.wav|ɪts ɡˌoʊɪŋ təbi ɡɹˈeɪt!
+DUMMY2/p362/p362_349.wav|sˌoʊ ðˈɛɹ wiː ɑːɹ.
+DUMMY2/p362/p362_200.wav|hˌuː ɑːɹ ðə pˈʌblɪk?
+DUMMY2/p362/p362_082.wav|ɪt mˈiːnz ðə mˈɑːɹdʒɪn fɔːɹ ˈɛɹɚɹ ɪz tˈaɪt.
+DUMMY2/p362/p362_140.wav|ʃiː wʌz vˈɛɹi dˈɪfɹənt.
+DUMMY2/p362/p362_214.wav|ɪɾ ɪz ɐ wˈʌɹi.
+DUMMY2/p362/p362_310.wav|ðæt ɪz maɪ kəmˈɪtmənt.
+DUMMY2/p362/p362_177.wav|hiː ɪz ɐ mˈæstɚɹ ʌv dᵻsˈiːt ænd dᵻlˈeɪ.
+DUMMY2/p362/p362_076.wav|ðə ɹˈiːəl pɹˈɑːbləm ɪz ðɪ ˈʌʃɚ hˈɔːl.
+DUMMY2/p362/p362_209.wav|aɪ hæv nˈoʊ sˈiːkɹᵻts.
+DUMMY2/p362/p362_319.wav|ðə tˈaɪmɪŋ ɪz ˈɑːbviəs.
+DUMMY2/p362/p362_221.wav|ˈænd, wɪðˌɪn ɪtsˈɛlf, ɪɾ ɪz vˈɪʒənˌɛɹi.
+DUMMY2/p362/p362_311.wav|ðɪs ɪz ðɪ ˈoʊnli pɹˈɑːbləm wɪððə stˈoːɹi.
+DUMMY2/p362/p362_196.wav|ðæts hˌaʊ ɪt wˈɜːks.
+DUMMY2/p362/p362_388.wav|ðə pətˈɛnʃəl ɪz ˈɔːlweɪz ɪnðɪ aɪdˈiə.
+DUMMY2/p362/p362_143.wav|ðə pɹˈɑːbləm ɪz nˌɑːt kənfˈaɪnd tə ɡlˈæzɡoʊ.
+DUMMY2/p362/p362_239.wav|bˌʌt ðə kˈɪlɪŋ wɪl kəntˈɪnjuː.
+DUMMY2/p362/p362_165.wav|wiː ɡˌoʊ bˈæk ɐ lˈɔŋ wˈeɪ.
+DUMMY2/p294/p294_329.wav|ðˈɛn ɪt wʌz ˌɪntʊ ɐ sˈɪɹiz ʌv klˈæsᵻz.
+DUMMY2/p326/p326_132.wav|jˈɛt ʃiː ɪz wˈʌn ʌvðə lˈʌki wˌʌnz.
+DUMMY2/p294/p294_200.wav|wˌɛn ɪɾ ɪz ɹˈɛdi, ɪt wɪl biː sˈaɪnd.
+DUMMY2/p294/p294_232.wav|aɪm nˌɑːɾə lˈɪɾəl ɡˈɜːl.
+DUMMY2/p347/p347_374.wav|ðeɪ wɜːɹ ˈoʊnli ðɛɹ fɔːɹ θɹˈiː wˈiːks.
+DUMMY2/p261/p261_102.wav|wiː ɑːɹ ˈɔːlsoʊ lˈʊkɪŋ fɔːɹ nˈuː lˈaɪsənsᵻz.
+DUMMY2/p294/p294_086.wav|wiː hæv tə fˈoʊkəs ˌɔn wʌt ɪz ɪmpˈoːɹtənt.
+DUMMY2/p294/p294_227.wav|ɑːɹ wiː ɡˌoʊɪŋ mˈeɪnstɹiːm?
+DUMMY2/p234/p234_323.wav|ænd hiːz ðə ɹˈiːəl θˈɪŋ.
+DUMMY2/p294/p294_285.wav|hiː hæd ˈæskt ɪf ðeɪ hæd ðə skɹˈɪpt.
+DUMMY2/p294/p294_066.wav|wˌʌt kˈaɪnd ʌv ɪŋklˈuːʒən ɪz ðˈæt?
+DUMMY2/p326/p326_116.wav|wˌʌt ʃiː wɪl dˈuː nˈɛkst?
+DUMMY2/p362/p362_096.wav|ðeɪ hæv tə wˈɜːk sˌoʊ hˈɑːɹd.
+DUMMY2/p225/p225_174.wav|hiː wʌzɐ bˈɪɡ ˈɪnfluːəns ˌɔn ˌaʊɚ dᵻsˈɪʒən tə mˌeɪk ðɪs ʃˈoʊ.
+DUMMY2/p362/p362_191.wav|aɪ θˈɪŋk hiːz dˈʌn ɪɾ ɐ fjˈuː tˈaɪmz.
+DUMMY2/p225/p225_117.wav|wiː hæv nˈoʊ ˈɪnfluːəns ɔnðə ɡˈʌvɚnmənts pˈɑːlɪsi ɔnðə jˈʊɹɹoʊ.
+DUMMY2/p362/p362_159.wav|juː nˈɛvɚ hˌædɪt sˌoʊ ɡˈʊd.
+DUMMY2/p335/p335_390.wav|ɪts ɹˈiəli nˈʌθɪŋ nˈuː.
+DUMMY2/p234/p234_069.wav|ðə mˈɑːɹkɪt ɪz ɐpˈɔːlɪŋ fɔːɹ ɪnˈɪʃəl pˈʌblɪk ˈɔfɚɹɪŋz.
+DUMMY2/p362/p362_071.wav|wiː hæv tə mˈuːv fˈɔːɹwɚd fɹʌm nˈaʊ ˈɔn.
+DUMMY2/p362/p362_183.wav|hiː ɪz ɐpˈiːlɪŋ tə wˈɪmɪn.
+DUMMY2/p326/p326_381.wav|ðɛɹˈɪn lˈaɪz ðə pɹˈɑːbləm.
+DUMMY2/p362/p362_389.wav|aɪɐm nˌɑːɾə fɹʌstɹˈeɪɾᵻd ˈæktɚ.
+DUMMY2/p261/p261_450.wav|juː hæv tə sˈiː ðə wˈɜːk.
+DUMMY2/p326/p326_321.wav|fˈæmɪli, ɪf juː lˈaɪk.
+DUMMY2/p234/p234_115.wav|ʃiː ɪz nˌɑːɾə vˈɪktɪm.
+DUMMY2/p238/p238_458.wav|aɪ hæv wˈɜːkt æz ɐ stˈændˌʌp ðɛɹ ˈɔfən.
+DUMMY2/p294/p294_135.wav|ɪt sˈiːmd tə hæv dᵻɹˈɛkʃən.
+DUMMY2/p238/p238_073.wav|ænd ðˈɛn ðɛɹz ðə ɹˈeɪʃəl hˈæsəl.
+DUMMY2/p294/p294_171.wav|wiː hæv ɐ dʒˈɛnjuːɪn bˈʌdʒɪt ɪn plˈeɪs.
+DUMMY2/p234/p234_133.wav|hiː hæd nˈoʊ mˈʌni lˈɛft tə ɹˈʌn ðə klˈʌb.
+DUMMY2/p335/p335_193.wav|aɪɐm dᵻlˈaɪɾᵻd wɪð tədˈeɪz wˈɪn.
+DUMMY2/p347/p347_156.wav|ðeɪv ɡɑːt ɐ sˈɔːɹt ʌv ʌnɹˈɪʔn̩ kˈɑːntɹækt.
+DUMMY2/p362/p362_236.wav|juː mˈiːn hiː dˈɪdnt ɡɛt ðə ɡˈɜːl?
+DUMMY2/p238/p238_388.wav|hɪz səksˈɛsɚ wʌz ˈoʊnli ɐpˈɔɪntᵻd lˈæst mˈʌnθ.
+DUMMY2/p362/p362_363.wav|ðeɪ wɛnt dˌaʊn təɡˈɛðɚ.
+DUMMY2/p248/p248_328.wav|juː wɜː vˈɛɹi pɹˈaʊd ðæt dˈeɪ təbi ɐmˌʌŋ ðɛɹ fɹˈɛndz.
+DUMMY2/p362/p362_207.wav|ɡlˈæzɡoʊ ɪz ɐ vˈɛɹi wˈɛlkʌmɪŋ plˈeɪs.
+DUMMY2/p234/p234_231.wav|hiː ɪz ɐ ɡˈʊd fɹˈɛnd.
+DUMMY2/p347/p347_136.wav|aɪ dˈoʊnt wˈɔnt tə kˈʌm dˈaʊn.
+DUMMY2/p335/p335_085.wav|hiː wʌz ɛkstɹˈiːmli nˈɜːvəs.
+DUMMY2/p294/p294_179.wav|hiː kʊd tˈɛl juː.
+DUMMY2/p294/p294_169.wav|aɪ ɛndʒˈɔɪ maɪ wˈɜːk.
+DUMMY2/p326/p326_313.wav|ðeɪ ʃˌʊd jˈuːz ɪɾ ɔnðə kˈætwɔːk.
+DUMMY2/p294/p294_384.wav|wiː hæd ˌaʊɚ tʃˈænsᵻz.
+DUMMY2/p326/p326_094.wav|ðæɾəd biː ɡˈʊd fɚðə hˈoʊl sˈɪɾi.
+DUMMY2/p294/p294_225.wav|ɡˈæs ɪz tˈuː ɛkspˈɛnsɪv.
+DUMMY2/p362/p362_304.wav|hiː ˈædᵻd, wiː ɑːɹ fˈʊl ʌv ˈæŋɡɚ.
+DUMMY2/p347/p347_385.wav|ðeɪ dˈɪdnt fˈaɪnd ˈɛnɪθˌɪŋ.
+DUMMY2/p326/p326_238.wav|aɪm hˈæpi wɪððɪ ˈaʊtkʌm.
+DUMMY2/p326/p326_158.wav|ɪts nˌɑːt dʒˈʌst ɐ mˈeɪl ɐdʒˈɛndə.
+DUMMY2/p362/p362_227.wav|nˈoʊ wˈʌndɚ hiː mˈɪst ðə kənvˈɜːʒən.
+DUMMY2/p294/p294_312.wav|haʊˈɛvɚ, ɪt sˈiːmz ðæt hiː ɡɑːt ɪt ɹˈɔŋ.
+DUMMY2/p335/p335_138.wav|ðɪs ɪz nˌɑːt pɹˈɛzəntli ðə kˈeɪs.
+DUMMY2/p362/p362_368.wav|juː kˈænt ɹˈiəli kəmpˈɛɹ.
+DUMMY2/p362/p362_141.wav|ðæt ɪz maɪ dɹˈiːm.
+DUMMY2/p326/p326_294.wav|sˌoʊ wʌt ɪz ɪt wɪð nˈeɪɾoʊ?
+DUMMY2/p225/p225_056.wav|klˈɪɹli, ɪt kæŋ ɡˌoʊ ˈiːðɚ wˈeɪ.
+DUMMY2/p362/p362_091.wav|ɪts nˌɑːt maɪ fˈɔlt.
+DUMMY2/p347/p347_040.wav|aɪl hæv tə ɡˌoʊ ˈaʊt ænd ɪmpɹˈɛs.
+DUMMY2/p238/p238_084.wav|hiːz vˈɛɹi jˈʌŋ ænd vˈɛɹi kˈiːn tə dˈuː wˈɛl.
+DUMMY2/p347/p347_294.wav|sˈɪks mˈʌnθs lˈeɪɾɚ, ðeɪ ɹᵻtˈɜːnd tə skˈɑːtlənd.
+DUMMY2/p347/p347_151.wav|aɪ dʒˈʌst wˈʌzn̩t vˈɛɹi ɡˈʊd.
+DUMMY2/p362/p362_402.wav|ðɪs ɪz ɐ vˈɛɹi sˈɪɹiəs mˈæɾɚ.
+DUMMY2/p326/p326_148.wav|ɪts ɐ dˈɪfɪkəlt wˈʌn tə kˈɑːmɛnt ˈɔn.
+DUMMY2/p326/p326_198.wav|ðiːz pˈiːpəl dʒˈʌst lˈɔst ðɛɹ tʃˈaɪld.
+DUMMY2/p335/p335_171.wav|ðɛɹz stˈɪl tˈaɪm fɔːɹ ðˈæt.
+DUMMY2/p326/p326_054.wav|hɪz vˈɔɪs ɪz stɹˈɔŋ.
+DUMMY2/p234/p234_343.wav|ðə mˈɑːɹkɪt ɪz ðə mˈɑːɹkɪt.
+DUMMY2/p234/p234_268.wav|ðˈɛn wʌzðə sˈʌmɚɹ ʌv ðɛɹ dɪskəntˈɛnt.
+DUMMY2/p326/p326_253.wav|ðə ɹˈiːəl pɹˈɑːbləm ɪz ðɪ ˈʌʃɚ hˈɔːl.
+DUMMY2/p294/p294_212.wav|aɪ hæv nˈoʊ sˈiːkɹᵻts.
+DUMMY2/p294/p294_128.wav|aɪ kˈænt spˈiːk fɔːɹ hˌɪm.
+DUMMY2/p362/p362_331.wav|ðə tˈaɪm kəmˈɪtmənt ɪz ðə bˈɪɡɪst θˈɪŋ.
+DUMMY2/p294/p294_417.wav|aɪ sˈɔː ɪɾ ɪn ɐ dˈɪfɹənt wˈeɪ.
+DUMMY2/p302/p302_136.wav|dˈuː juː θˈɪŋk ðeɪ wʊd biː ˌɛni bˈɛɾɚ?
+DUMMY2/p234/p234_111.wav|ðæt wʊd biː dᵻsˈaɪdᵻd æt ðɪ ˈɪntɚɹˌɪm ɹɪzˈʌlts ɪn noʊvˈɛmbɚ, hiː ˈædᵻd.
+DUMMY2/p234/p234_130.wav|wiː ɑːɹ kəmˈɪɾᵻd tə ðə bˈæn.
+DUMMY2/p294/p294_324.wav|aɪ tˈoʊld juː sˈoʊ.
+DUMMY2/p362/p362_162.wav|sˌoʊ ɪz ðə ɹˈɛst ʌv bɹˈɪɾɪʃ spˈoːɹt.
+DUMMY2/p326/p326_298.wav|ðɪ əbzˈɜːvɚ sˈɔː nˈoʊ ˈɛvɪdəns ˈɑːfɚ fˈaɪɾɪŋ.
+DUMMY2/p294/p294_055.wav|wiː ʃˌʊd nˌɑːt bɹˈɪŋ hˌɪm ˌɪntʊ ɐ dɪspjˈuːt.
+DUMMY2/p362/p362_414.wav|wiː ˈæktʃuːəli hæd ɐ lˈæf ɐbˌaʊt ðˈæt.
+DUMMY2/p294/p294_095.wav|wʌz ɪɾ ɐ sˈɪɡnəl?
+DUMMY2/p294/p294_362.wav|jˈʊɹɹəp ɪz ɐ bˈoʊnəs.
+DUMMY2/p362/p362_077.wav|ðæt ɪz hɜː dʒˈɑːb.
+DUMMY2/p238/p238_245.wav|aɪ wʌzɐ lˈʌki mˈæn tənˈaɪt.
+DUMMY2/p302/p302_106.wav|bˌʌt ðɪ ɐtˈætʃmənt tˈʊk ɐ lˈɑːt ʌv ɡɹˈoʊɪŋ.
+DUMMY2/p362/p362_218.wav|ɡˈæs ɪz tˈuː ɛkspˈɛnsɪv.
+DUMMY2/p347/p347_369.wav|æz ɪt hˈæpənd, ɪt wʌz mˈʌtʃ mˈoːɹ ðɐn ðˈæt.
+DUMMY2/p326/p326_270.wav|sˈʌbz nˌɑːt jˈuːzd, mə ɡɹˈɔː.
+DUMMY2/p294/p294_247.wav|ˈɛvɹɪθˌɪŋ ˈɛls ɪz ðə sˈeɪm.
+DUMMY2/p294/p294_132.wav|aɪm dˈiːpli sˈɑːɹi ðeɪ dˈɪd.
+DUMMY2/p326/p326_114.wav|θˈaʊzəndz ʌv ˈʌðɚz hɐvnˌɑːt bˌɪn sˌoʊ fˈɔːɹtʃənət.
+DUMMY2/p294/p294_414.wav|wʊd ɪt ɹˈiəli biː ɡˈʊd tə ʃˈɔːɹʔn̩ ɪt?
+DUMMY2/p294/p294_090.wav|hiː hæd dʒˈʌst ɹᵻtˈɜːnd fɹʌm ɐ ɹˈʌn.
+DUMMY2/p225/p225_084.wav|hiː ɪz dᵻlˈaɪɾᵻd, ænd hiː hɐz ˈɛvɹi ɹˈaɪt tə bˈiː.
+DUMMY2/p238/p238_334.wav|ðeɪ wɪl ˈɔːlweɪz biː ɪn ˌaʊɚ hˈɑːɹts ænd ɪn ˌaʊɚ mˈaɪndz.
+DUMMY2/p294/p294_067.wav|aɪ fˈɛl ɪn lˈʌv wɪð ɪt ɹˈaɪt ɐwˈeɪ.
+DUMMY2/p362/p362_073.wav|aɪɐm ɡˌoʊɪŋ tə wˈɪn ðə nˈɛkst tˈuː.
+DUMMY2/p326/p326_323.wav|aɪ dˈoʊnt wˈɔnt tə tʃˈeɪndʒ ˈɛnɪθˌɪŋ.
+DUMMY2/p362/p362_395.wav|aɪ nˈɛvɚ ɡɑːt ˈɛnɪθˌɪŋ ˌaʊɾəv ɪt.
+DUMMY2/p294/p294_140.wav|ɪt wʌzɐ hjˈuːdʒli pˈɑːpjʊlɚ dᵻsˈɪʒən.
+DUMMY2/p347/p347_090.wav|ɪɾ ɪz ɐ hˈæŋɡoʊvɚɹ ɪfˈɛkt.
+DUMMY2/p326/p326_358.wav|lˈeɪbɚɹ ɪz pɹəvˈaɪdɪŋ nˈʌn ʌv ðˈiːz.
+DUMMY2/p294/p294_296.wav|ɪt dʒˈʌst wʊd nˌɑːt wˈɜːk.
+DUMMY2/p362/p362_157.wav|ænd hiː stˈɪl ɪz.
+DUMMY2/p326/p326_117.wav|hˈoʊpfəli, ˈɛvɹɪθˌɪŋ ɪz fɚðə bˈɛst.
+DUMMY2/p362/p362_386.wav|ɪts ɐ ɡˈʊd ˈɔfɚ baɪ ˌɛni stˈændɚdz.
+DUMMY2/p326/p326_348.wav|aɪ kˈænt sˈiː hˌɪm ɹᵻvˈɜːsɪŋ ðˈæt.
+DUMMY2/p326/p326_314.wav|pɚhˈæps ɪɾ ɪz ðə kɹˈaʊn ᵻstˈeɪt.
+DUMMY2/p326/p326_236.wav|sˈiːmz ɐ sˈɛnsᵻbəl kˈɑːmpɹəmˌaɪz.
+DUMMY2/p362/p362_081.wav|aɪ hæv tʊ ɐksˈɛpt ðˈæt.
+DUMMY2/p335/p335_309.wav|lˈʌkili fɔːɹ ˌʌs, hiː ɛndʒˈɔɪd ðɪ ɛkspˈiəɹɪəns.
+DUMMY2/p362/p362_180.wav|ðɪs ɪz ɐ fˈaɪn ɐpˈɔɪntmənt.
+DUMMY2/p238/p238_371.wav|wiː wɪl lˈaɪkli lˈʊk fɔːɹ nˈuː ɪnvˈɛstɚz.
+DUMMY2/p294/p294_217.wav|ɪts nˌɑːɾə kwˈɛstʃən ʌv tˈɔːkɪŋ.
+DUMMY2/p362/p362_332.wav|ɪɾ ɪz kwˈaɪt hˈɑːɹd tə tɹˈæk.
+DUMMY2/p326/p326_127.wav|aɪv bˈiːʔn̩ hɜːɹ ɐ fjˈuː tˈaɪmz.
+DUMMY2/p326/p326_345.wav|aɪ kˈænt spˈiːk fɔːɹ hˌɪm.
+DUMMY2/p326/p326_288.wav|ðeɪ hæv tə wˈɜːk sˌoʊ hˈɑːɹd.
+DUMMY2/p326/p326_391.wav|maɪ fˈɑːðɚ hɐdbɪn ʌnwˈɛl fɔːɹ mˈɛni jˈɪɹz.
+DUMMY2/p362/p362_404.wav|ðæts ɐ ɡˈʊd sˈaɪn.
+DUMMY2/p362/p362_411.wav|wiː wˈɔnt ˈɛvɹɪwˌʌn tə hæv ɐ ɡˈʊd tˈaɪm.
+DUMMY2/p234/p234_153.wav|ðæt ɪz ðə nˈeɪtʃɚɹ ʌvðə ɡˈeɪm.
+DUMMY2/p362/p362_145.wav|ðə tʃˈɔɪs ɪz sˈɪmpəl.
+DUMMY2/p302/p302_288.wav|ðeɪ kˈeɪm ˌɪntʊ kəlˈɪʒən wɪð sˈɜːdʒɪˌoʊ.
+DUMMY2/p326/p326_194.wav|ɪts dʒˈʌst ðə wˈɜːkɪŋz ʌvðə skˈɑːɾɪʃ mˈiːdiːə.
+DUMMY2/p294/p294_165.wav|ðɛɹwˌʌz nˈoʊ tʃˈeɪndʒ ɪnðə stɹˈæɾədʒi.
+DUMMY2/p248/p248_333.wav|aɪ sˈɛd ðæt aɪ hɐdbɪn ɹˈeɪpt.
+DUMMY2/p326/p326_190.wav|juːv dʒˈʌst ɡɑːt tə mˈuːv ˈɔn.
+DUMMY2/p225/p225_316.wav|ɪɾ ɪz bᵻjˌɔnd ðə ɡˈʌvɚnmənt tə dˈiːl wɪð ðɪs tɹˈædʒədi.
+DUMMY2/p294/p294_121.wav|wiː dˈoʊnt nˈoʊ wʌt hˈæpənd ˈæftɚ.
+DUMMY2/p294/p294_210.wav|ðɪs kˈeɪm æz nˈoʊ ɡɹˈeɪt sɚpɹˈaɪz tʊ ˈɛnɪwˌʌn.
+DUMMY2/p347/p347_345.wav|ˌaʊɚ fjˈuːtʃɚ wʌz hɪz fjˈuːtʃɚ.
+DUMMY2/p362/p362_151.wav|aɪ hæv nˈʌθɪŋ tə ɹᵻɡɹˈɛt.
+DUMMY2/p294/p294_191.wav|ɪɾ ɪz bᵻkˈʌmɪŋ ɐ bˈɪt əvə hˈæbɪt.
+DUMMY2/p261/p261_444.wav|ɡˈoːɹdən ɪz ˈɔːlsoʊ hˈaɪli ɹˈeɪɾᵻd.
+DUMMY2/p261/p261_280.wav|ðə skˈɑːtʃ wˈɪski ˈɪndʌstɹi ɪz ˈæbsənt fɹʌmðɪ ɐdʒˈɛndə.
+DUMMY2/p335/p335_387.wav|ɪts ˌaʊɚ wˈɜːst nˈaɪtmɛɹ.
+DUMMY2/p347/p347_037.wav|ænd lˈʊk æt ðə lˈiːdɪŋ kəndˈʌktɚz, hiː sˈɛz.
+DUMMY2/p326/p326_351.wav|kˈæpɪɾəl ɡˈeɪnz tˈæks ɪz ˈɔːlsoʊ bˌiːɪŋ ɹᵻdˈuːst.
+DUMMY2/p225/p225_266.wav|nˈoʊ ˈʌðɚ vˈiəkəl wʌz ɪnvˈɑːlvd ɪnðə kɹˈæʃ.
+DUMMY2/p326/p326_342.wav|juː nˈɛvɚ hˌædɪt sˌoʊ ɡˈʊd.
+DUMMY2/p362/p362_042.wav|ðə tʃˈænsᵻz wɜː plˈɛntifəl.
+DUMMY2/p362/p362_361.wav|dˈʌzənt hiː mˈɪs ɪt?
+DUMMY2/p326/p326_090.wav|ðɛɹ hɐzbɪn ɐ sˈɛns ʌv fɹʌstɹˈeɪʃən.
+DUMMY2/p234/p234_249.wav|juː kæn bˈaɪ ðˌɛm ˌoʊvɚ ðə kˈaʊntɚ, ˈɛnɪwˌɛɹ.
+DUMMY2/p326/p326_078.wav|wɪɹ stˈɪl ɪn tˈɔːks ænd, hˈoʊpfəli, ðeɪ wɪl kəntˈɪnjuː.
+DUMMY2/p294/p294_311.wav|ðeɪ hæv nˈoʊwɛɹ ˈɛls tə ɡˈoʊ.
+DUMMY2/p294/p294_333.wav|ɪɹˈæk hɐz nˈoʊ ˈɪntɹɪst ɪn wˈɔːɹ.
+DUMMY2/p294/p294_379.wav|hiː ˈɛdɪɾᵻd ðə pɹˈɛs ɹᵻlˈiːs.
+DUMMY2/p238/p238_044.wav|ɪɾ ɪz ɐbˌaʊt ɹˈɛɡjʊlɚ kəmˈɪɾᵻd ɡˈɪvɪŋ wˌɪtʃ ɪz ðə ɹˈiːəl ɐtɹˈækʃən.
+DUMMY2/p362/p362_263.wav|wiː kˌʊdɐv dˈʌn wɪðˌaʊt ðˈɪs.
+DUMMY2/p294/p294_289.wav|sˌoʊ ɪt wʌz sˈæd.
+DUMMY2/p294/p294_308.wav|ðɪ ɐpˈiːl ɪz ɪmpˈɑːɹʃəl.
+DUMMY2/p238/p238_141.wav|ˈiːvən ðə wˈɪnɪŋ klˈʌb wʌz wɪðˌɪn sˈɛkəndz ʌv dɪzˈæstɚ.
+DUMMY2/p294/p294_360.wav|ðə tɹˈaɪəl kəntˈɪnjuːz tədˈeɪ.
+DUMMY2/p294/p294_138.wav|əbˌʌv ˈɔːl, ðɪ ɐpɹˈoʊtʃ ɪz ʌpbˈiːt.
+DUMMY2/p234/p234_184.wav|ðeɪ wɜː nˌɑːt sˈiːkɪŋ ðə ɹˈaɪt tə stɹˈaɪk.
+DUMMY2/p238/p238_066.wav|ɪts ðə pɚfˈoːɹməns wiː wˈɔnt.
+DUMMY2/p238/p238_172.wav|wiː kəntˈɪnjuː tə hˈoʊld ðə ʃˈɛɹz.
+DUMMY2/p326/p326_388.wav|ðæt ɪz dˈɪfɪkəlt tʊ ˈænsɚ.
+DUMMY2/p335/p335_081.wav|ðæt wʊd biː dˈeɪndʒɚɹəs.
+DUMMY2/p294/p294_051.wav|hˈoʊpfəli, ðˌæɾəl kˈʌm fɹʌm sˈʌmwʌn ˌɔn ˌaʊɚ sˈaɪd.
+DUMMY2/p234/p234_277.wav|ðæt wʊd biː ɐ dˈeɪndʒɚ.
+DUMMY2/p362/p362_281.wav|ɪt tˈeɪks ɐ bˈɪt ʌv wˈɜːkɪŋ ˈaʊt.
+DUMMY2/p294/p294_161.wav|ðɛɹ ɪz nˈoʊ ʃˈɔːɹɾɪdʒ ʌv kəmˈɪtmənt.
+DUMMY2/p326/p326_165.wav|wiː ˈɔːl hæv tə lˈʊk ɪnðə mˈɪɹɚ.
+DUMMY2/p326/p326_144.wav|aɪv ɡɹˈoʊn ˌʌp ɐ bˈɪt.
+DUMMY2/p294/p294_300.wav|ðɛɹwˌʌz nˈoʊ hˈæpɪnəs.
+DUMMY2/p234/p234_302.wav|bˌʌt ɪt wʌz ˈɔːlsoʊ hˈɑːɹd.
+DUMMY2/p362/p362_339.wav|dˈʌzənt mˈæɾɚ wʌt juː dˈuː.
+DUMMY2/p294/p294_109.wav|ðæt wʌzðə kˈɑːntɛkst ʌv hɪz ɹᵻmˈɑːɹks.
+DUMMY2/p261/p261_445.wav|ðə fˈɜːst ɡˈeɪm ɪz sˌoʊ ɪmpˈoːɹtənt.
+DUMMY2/p326/p326_366.wav|fˈaɪnəli ˈækʃən hɐdbɪn tˈeɪkən.
+DUMMY2/p326/p326_320.wav|hiː ɪz ɪnvˈɑːlvd ɪn ˈɛvɹɪθˌɪŋ.
+DUMMY2/p234/p234_134.wav|ɪɾ ɪz nˌɑːt sˌoʊ sˈɪmpəl.
+DUMMY2/p362/p362_422.wav|hiː ɡɑːt ðə pˈɑːɹt.
+DUMMY2/p238/p238_217.wav|aɪ wɪl nˌɑːt tˈeɪk pˈɑːɹt ɪn ˈɛdmɔntən.
+DUMMY2/p362/p362_032.wav|aɪ hæv ɐ vˈɛɹi stɹˈɔŋ əpˈɪniən ɐbˌaʊt ðˈɪs.
+DUMMY2/p238/p238_181.wav|wɪɹ vˈɛɹi fˈɔːɹtʃənət tə hæv ðiːz nˈuː pɹˈɑːdʌkts tə fˈoʊkəs ˈɔn.
+DUMMY2/p294/p294_182.wav|ɐ dᵻsˈɪʒən ɪz ɛkspˈɛktᵻd ɪn sɛptˈɛmbɚ.
+DUMMY2/p261/p261_247.wav|wiː hæv kˈʌm ɐ lˈɔŋ wˈeɪ ɪnðə lˈæst fjˈuː sˈɛʃənz.
+DUMMY2/p294/p294_372.wav|bˌʌt əpˈoʊnənts wɜː kwˈɪk tə kɹˈɪɾɪsˌaɪz.
+DUMMY2/p294/p294_411.wav|ɪt ɹˈeɪzᵻz ðɪ ˈɛdʒ.
+DUMMY2/p326/p326_149.wav|ˌaʊɚ pəzˈɪʃən ɪz klˈɪɹ.
+DUMMY2/p238/p238_370.wav|nˌɑːt ðæt bˈɑːɹbɚ hɐzbɪn ʌnhˈæpi.
+DUMMY2/p326/p326_103.wav|bɹˈaʊn ɪz ɐn ˈɪntɹɪstɪŋ mˈæn, bˌʌt hiːz nˌɑːt dˈɛspɚɹət.
+DUMMY2/p234/p234_266.wav|nˌɑːt ɪn ðɪs pɹədˈʌkʃən hiː dˈʌzənt.
+DUMMY2/p294/p294_113.wav|aɪ dˈoʊnt nˈoʊ ðə nˈeɪtʃɚɹ ʌvðɪ ˈɪlnəs.
+DUMMY2/p326/p326_152.wav|ðˈɛn ɪŋ kˈeɪm ɐ səksˈɛʃən ʌv sˈaɪnɪŋz.
+DUMMY2/p238/p238_289.wav|hiː ɪz ɐ sˈɪɹiəl kənsˈɜːvətˌɪv ɐsˈæsɪn.
+DUMMY2/p294/p294_068.wav|dəmˈɛstɪk ɐbjˈuːs ɪz ɹᵻlˈeɪɾᵻd tə pˈaʊɚ ænd kəntɹˈoʊl.
+DUMMY2/p294/p294_041.wav|aɪv bˌɪn dˈaɪɪŋ fɚɹən ˈaʊɚ.
+DUMMY2/p294/p294_170.wav|wiː hæv mˈænɪdʒd tə ɡɛt ɪɾ ˌʌndɚ kəntɹˈoʊl.
+DUMMY2/p362/p362_306.wav|aɪ dˈoʊnt θˈɪŋk ðæt ɪz ɡˈʊd ɪnˈʌf.
+DUMMY2/p234/p234_211.wav|ðə tɹˈeɪdɪŋ kəndˈɪʃənz ɑːɹ nˌɑːt ɡˈʊd.
+DUMMY2/p238/p238_343.wav|skˈɑːɾɪʃ kənsˈuːmɚ pɹətˈɛkʃəŋ ɡɹˈuːps wɜː dʒˈɛnɚɹəli ɹᵻsˈɛptɪv tə ðə pɹəpˈoʊzəlz.
+DUMMY2/p326/p326_355.wav|hiːz ɔnðə ɹˈɔŋ sˈaɪd.
+DUMMY2/p294/p294_088.wav|ɪts nˌɑːt vˈɛɹi pɹˈɪɾi, bˌʌt ɪts ɪfˈɛktɪv.
+DUMMY2/p326/p326_208.wav|wɪɹ stˈɪl hˈoʊpfəl ʌv kəŋklˈuːdɪŋ ðə dˈiːl.
+DUMMY2/p294/p294_047.wav|ðɪs wʌz nˈoʊ ˈæksɪdənt.
+DUMMY2/p294/p294_400.wav|ʌv kˈoːɹs, ɪt dˈʌzənt ˈɔːl kˈʌm ˈɔf.
+DUMMY2/p326/p326_041.wav|ɪt wʊd biː ɐ mˈɪɹəkəl.
+DUMMY2/p326/p326_265.wav|bˌʌt ðɛɹˌɑːɹ sˌʌm pɹˈɑːbləmz.
+DUMMY2/p261/p261_139.wav|sˈɛvɹəl mˈɛsɪdʒᵻz kæn biː tˈeɪkən fɹʌmðɪ əkˈeɪʒən.
+DUMMY2/p294/p294_380.wav|vˈɪzɪɾɚz wɜːɹ ˈɔːlsoʊ ɪmpɹˈɛst.
+DUMMY2/p294/p294_235.wav|wɪɹ tˈɔːkɪŋ ɐbˌaʊt wˈʌn ɔːɹ tˈuː jˈɪɹz.
+DUMMY2/p294/p294_241.wav|aɪ kˌʊdəntəv ˈæskt fɔːɹ bˈɛɾɚ.
+DUMMY2/p362/p362_155.wav|aɪ ˈæskt tə tˈeɪk ɪɾ ˌʌp tə ɡlˈæzɡoʊ.
+DUMMY2/p294/p294_287.wav|ðɪs kʊd tˈeɪk ɐ fjˈuː dˈeɪz.
+DUMMY2/p225/p225_166.wav|lˈaɪk lˈæst mˈʌnθ, ɪɾ ɪz sˈɪmpli tˈuː ˈɜːli tə mˌeɪk ɐ kˈɔːl.
+DUMMY2/p225/p225_274.wav|wiː hɐvnˌɑːt ɹˈiːtʃt ðə pˈɔɪnt ʌv nˈoʊ ɹᵻtˈɜːn.
+DUMMY2/p294/p294_245.wav|sˌʌm dˈeɪz ɑːɹ dˈɪfɹənt fɹʌm ˈʌðɚz.
+DUMMY2/p294/p294_154.wav|ðɛɹˈɪn lˈaɪz ðə pɹˈɑːbləm.
+DUMMY2/p362/p362_170.wav|wiːv ɡɑːt tə ɡɛt bˈæk tə nˈoːɹməl.
+DUMMY2/p294/p294_205.wav|ˌaʊɚ tɹɐdˈɪʃənz ænd kˈʌltʃɚz ɹᵻmˈeɪn ðə sˈeɪm.
+DUMMY2/p335/p335_146.wav|mˈʌmi bᵻlˈiːvd ɪn wˈʌn θˈɪŋ əbˌʌv ˈɔːl.
+DUMMY2/p347/p347_347.wav|ɪt hɐz mˌeɪd ɐ dˈɪfɹəns.
+DUMMY2/p362/p362_415.wav|ɪt ɹˈeɪzᵻz ðɪ ˈɛdʒ.
+DUMMY2/p362/p362_080.wav|aɪ fˈaʊnd ðə kˈoːɹs ɪnspˈaɪɚɹɪŋ.
+DUMMY2/p335/p335_068.wav|aɪɐm dᵻlˈaɪɾᵻd tə hˈɪɹ ðɪs wˈʌndɚfəl nˈuːz.
+DUMMY2/p362/p362_348.wav|ðeɪ ɑːɹ ɐ vˈɛɹi ɡˈʊd tˈiːm.
+DUMMY2/p234/p234_186.wav|tˈoʊni blˈɛɹ hɐz hæd ɐ ɡˈʊd kˈɑːnfɹəns.
+DUMMY2/p294/p294_220.wav|wiː ɑːɹ nˌɑːɾɚ ɹˈiːteɪlɚ, wiː pɹəvˈaɪd ɐ sˈɜːvɪs.
+DUMMY2/p362/p362_307.wav|ʌv kˈoːɹs ɪɾ ˈɪz.
+DUMMY2/p234/p234_344.wav|wiː duːnˌɑːt hæv ðə pˈeɪpɚz.
+DUMMY2/p294/p294_078.wav|sˈʌbz nˌɑːt jˈuːzd, mə ɡɹˈɔː.
+DUMMY2/p294/p294_328.wav|ðɛɹˌɑːɹ sˌoʊ mˈɛni ʌnˈænsɚd kwˈɛstʃənz.
+DUMMY2/p238/p238_401.wav|hiː lˈɛft ðə hˈɑːspɪɾəl wɪðˌaʊt ɹᵻsˈiːvɪŋ ˌɛni mˌɛdɪkˈeɪʃən.
+DUMMY2/p225/p225_065.wav|ðɛɹ ɪz nˈoʊ pɹˈɛʃɚɹ ˈɔn ˌʌs.
+DUMMY2/p326/p326_184.wav|aɪ lˈʌv ðə skˈɑːɾɪʃ ænd ðɪ ˈaɪɹɪʃ pˈiːpəl.
+DUMMY2/p335/p335_212.wav|wiː ɑːɹ nˌɑːt ɹˈuːlɪŋ ɪɾ ˈaʊt.
+DUMMY2/p347/p347_155.wav|aɪ sˈɜːʔn̩li bᵻlˈiːv wiː kæn dˈuː ɪt.
+DUMMY2/p225/p225_103.wav|ˈɛvɹɪwˌʌn dɪzˈɜːvz tə ʃˈɛɹ ɪn ðɪs səksˈɛs.
+DUMMY2/p362/p362_357.wav|ðə pɹˈoʊɡɹæm wʌz ˈɔːfəl.
+DUMMY2/p326/p326_338.wav|ɪts ˌaʊɚ wˈɜːst nˈaɪtmɛɹ.
+DUMMY2/p326/p326_179.wav|hiː dˈɪdnt hæv lˈɔŋ tə wˈeɪt.
+DUMMY2/p362/p362_167.wav|nˌɑːt ðæt hiːz dᵻklˈaɪnd.
+DUMMY2/p294/p294_354.wav|wiː dˈɪdnt mˈiːn tə kˈɪl hˌɪm.
+DUMMY2/p238/p238_398.wav|stˈændɚd lˈaɪf hɐz ˈɔːlsoʊ hˈaɪlaɪɾᵻd æmbˈɪʃənz ɪn ðɪs mˈɑːɹkɪt.
+DUMMY2/p362/p362_201.wav|wˌɛn ɪɾ ɪz ɹˈɛdi, ɪt wɪl biː sˈaɪnd.
+DUMMY2/p302/p302_082.wav|pˌiːˈɑːɹ fɔːɹ wˈɛstmɪnˌɪstɚɹ ɪz ðɛɹ hˈoʊli ɡɹˈeɪl.
+DUMMY2/p326/p326_269.wav|ɪt wɪl nˌɑːt biː ɐ lˈɔŋ kæmpˈeɪn.
+DUMMY2/p234/p234_157.wav|aɪ hæv ɐ lˈɑːt ʌv kˈɑːnfɪdəns ɪn ðɪs tˈiːm.
+DUMMY2/p326/p326_257.wav|wiː wʊd ɛkspˈɛkt ɪt tə dˌɪsɐpˈɪɹ ɪn tˈaɪm.
+DUMMY2/p335/p335_282.wav|ˈɑːɹsənəl kənsˈɪdɚd ðə dʒˈɑːb dˈʌn.
+DUMMY2/p294/p294_084.wav|ɪɾ ɪz ɐ vˈɛɹi dʒˈɛnjuːɪn pɹˈɑːspɛkt.
+DUMMY2/p294/p294_087.wav|ðeɪ hæv tə wˈɜːk sˌoʊ hˈɑːɹd.
+DUMMY2/p362/p362_268.wav|aɪ wˈɔnt tə kˈɑːnsəntɹˌeɪt ɔnðə ɹˈiːəl ˈɪʃuːz.
+DUMMY2/p294/p294_026.wav|ðə ʃˈoʊ ɪz sˈoʊld ˈaʊt, lˈaɪk ðɪ ˈʌðɚz ɪnðə ɹˈʌn.
+DUMMY2/p294/p294_159.wav|juːv bˌɪn wˈɜːkɪŋ fɔːɹ fˈoːɹ jˈɪɹz.
+DUMMY2/p362/p362_292.wav|aɪ hæv nˈɛvɚ fˈɛlt sˌoʊ wˈɛl.
+DUMMY2/p294/p294_025.wav|ðeɪ wɜː ðə bˈɛɾɚ tˈiːm ɔnðə nˈaɪt.
+DUMMY2/p362/p362_285.wav|aɪm vˈɛɹi ɹᵻlˈækst ɐbˌaʊt ðæt ˌɪndˈiːd.
+DUMMY2/p326/p326_073.wav|ðɪ ɪnsˈaɪdɚɹ ˈoʊpənz təmˈɑːɹoʊ.
+DUMMY2/p362/p362_412.wav|wɪɹ ɡˌoʊɪŋ tə ɹᵻbˈɪld.
+DUMMY2/p261/p261_288.wav|ɪt wʊd biː ɐ tɹˈædʒədi ɪf ɪt hædtə klˈoʊs.
+DUMMY2/p335/p335_064.wav|ðɪs mˈʌst biː ɹˈɔŋ.
+DUMMY2/p234/p234_340.wav|ðæt ɪz ˈɔːlweɪz ɐ pɹˈɑːbləm.
+DUMMY2/p294/p294_081.wav|ðeɪ kʊd nˌɑːɾɐv dˈʌn mˈoːɹ fɔːɹ mˌiː.
+DUMMY2/p347/p347_342.wav|bɹˈɪtən ɪz ɐ pˈiːsfəl nˈeɪʃən.
+DUMMY2/p238/p238_445.wav|ðə hˈoʊl ɛkspˈiəɹɪəns wʌz ʌplˈɪftɪŋ ænd hˈɑːɹtbɹeɪkɪŋ æt ðə sˈeɪm tˈaɪm.
+DUMMY2/p294/p294_176.wav|juː hæv tə ɡˌoʊ tə ðɪ ˈɛdʒᵻz.
+DUMMY2/p362/p362_378.wav|sˈoʊ, ðæt ɪz ɪt fɔːɹ ɐnˈʌðɚ jˈɪɹ.
+DUMMY2/p335/p335_077.wav|ɪts dʒˈʌst fɔːɹ mˌiː.
+DUMMY2/p238/p238_271.wav|aɪm dᵻlˈaɪɾᵻd ðæt kˈɛltɪk hæv dˈʌn sˌoʊ wˈɛl ðɪs sˈiːzən.
+DUMMY2/p234/p234_113.wav|ˌaʊɚɹ ˈækʃən ɪz nˌɑːt ðɪ ˈɛnd, bˌʌt ðə bɪɡˈɪnɪŋ əvə pɹˈɑːsɛs.
+DUMMY2/p362/p362_220.wav|ɪt wʌz ˈɔːl ɹˈɛlətˌɪv.
+DUMMY2/p362/p362_181.wav|ðæt wʌzðə fˈaɪnɪst mˈoʊmənt ɪn maɪ kɚɹˈɪɹ.
+DUMMY2/p294/p294_405.wav|ɪts ɐ tɹˈædʒədi fɚðɪ ˈɛɹiə.
+DUMMY2/p302/p302_199.wav|ˈɔːl ðə nˈeɪmz ɑːɹ fəmˈɪlɪɹ tə mˌiː.
+DUMMY2/p238/p238_379.wav|ɪt ɹˌɛpɹᵻzˈɛnts ɐ kəmplˈiːt tʃˈeɪndʒ ɪn ˈɛmfəsɪs.
+DUMMY2/p362/p362_203.wav|bˌʌt wiː hæv lˈɜːnd ðˌɐɾɪt dˈʌzənt.
+DUMMY2/p294/p294_250.wav|ðɛɹˌɑːɹ nˈoʊ ɛkskjˈuːsᵻz lˈɛft fɔːɹ ˌʌs.
+DUMMY2/p294/p294_177.wav|aɪm lˈʊkɪŋ fˈɔːɹwɚd tə fˈeɪsɪŋ ðɪ ˈaɪɹɪʃmˌɛn.
+DUMMY2/p294/p294_144.wav|ɪɾ ɪz ɐ kwˈɛstʃən ʌv lˈaɪf ænd dˈɛθ.
+DUMMY2/p294/p294_199.wav|ðɐtsbˌɪn ðə kˈeɪs fɚɹə wˈaɪl.
+DUMMY2/p225/p225_297.wav|ˈɪnəsənt pˈiːpəl hæv ɐ ɹˈaɪt tə lˈɪv ɪn sˈeɪfti.
+DUMMY2/p238/p238_449.wav|kˈɛltɪk ɑːɹ sˈɪmpli tɹˈaɪɪŋ tə bˈaɪ tˈaɪm baɪ nˌɑːt pˈeɪɪŋ ðə mˈʌni.
+DUMMY2/p294/p294_288.wav|ɐ ɡɹˈeɪt dˈiːl wʌz ɐtʃˈiːvd.
+DUMMY2/p294/p294_059.wav|wiː ɑːɹ ˈoʊnli hjˈuːmən.
+DUMMY2/p245/p245_062.wav|hiː ʃˌʊdəv ˈæskt fɚɹə sˈɛkənd əpˈɪniən.
+DUMMY2/p326/p326_161.wav|ʃiː wˈɔntᵻd tə mˈuːv.
+DUMMY2/p294/p294_242.wav|ðæt ɪz haʊˈɛvɚ, ðɪ ˈoʊnli pˈɑːɹt ʌvðə stˈoːɹi.
+DUMMY2/p362/p362_189.wav|ðə fˈɜːst mˈɪnɪstɚɹ ɪz ɐn ˈædɪkt.
+DUMMY2/p294/p294_330.wav|hiː wˈɔnts tə plˈeɪ ɪnðə tʃˈæmpiənz lˈiːɡ.
+DUMMY2/p294/p294_172.wav|ˈɑːɹt ɪz stˈɪl ɐ ɹˈɪski ɪnvˈɛstmənt.
+DUMMY2/p335/p335_348.wav|ɪt wʌz sˈɜːʔn̩li ɪntˈɛns.
+DUMMY2/p294/p294_310.wav|hiː ˈædᵻd, wiː ɑːɹ fˈʊl ʌv ˈæŋɡɚ.
+DUMMY2/p347/p347_406.wav|aɪ bᵻlˈiːv ɪŋ ɡˈɑːd.
+DUMMY2/p362/p362_035.wav|hɪz mˈʌðɚ wʌz ˈɪŋɡlɪʃ.
+DUMMY2/p225/p225_237.wav|fɹˈæŋkli, wiː wɜː lˈʌki tə ɡɛt sˈɛkənd.
+DUMMY2/p261/p261_135.wav|ðɪ ˈʌðɚz hæv ˈɔːl bˌɪn ɪn stˈoːɹɪdʒ fɔːɹ sˌʌm tˈaɪm.
+DUMMY2/p362/p362_229.wav|wiː hæv nˈoʊwɛɹ tə ɡˈoʊ.
+DUMMY2/p326/p326_378.wav|bˌʌt sˈʌmtaɪmz ɪt wˈɜːks ˈaʊt ˈɔːl ɹˈaɪt.
+DUMMY2/p326/p326_385.wav|aɪ hæv tə kˈiːp wˈɜːkɪŋ hˈɑːɹd.
+DUMMY2/p326/p326_387.wav|ˈɑːɹt ɪz stˈɪl ɐ ɹˈɪski ɪnvˈɛstmənt.
+DUMMY2/p294/p294_407.wav|aɪ dˈoʊnt θˈɪŋk ðɛɹz ɡˈoʊɪŋ təbi wˌʌn.
+DUMMY2/p294/p294_343.wav|ðɛɹˌɑːɹ mˈoʊmənts ʌv dʒˈɔɪ ɪn pˈɑːlətˌɪks.
+DUMMY2/p326/p326_399.wav|sˌoʊ ɪz ðə ɹˈɛst ʌv bɹˈɪɾɪʃ spˈoːɹt.
+DUMMY2/p234/p234_193.wav|ðə pɚfˈoːɹməns ɪz nˌɑːt ðˈɛɹ.
+DUMMY2/p326/p326_019.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ɪɾ ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+DUMMY2/p335/p335_177.wav|tˈiːmz ɑːɹ ˈɔːlweɪz ˈɪntɹɪstɪŋ tə wˈɑːtʃ.
+DUMMY2/p362/p362_052.wav|hˈæzənt lˈɛt ˈɛnɪwˌʌn dˈaʊn?
+DUMMY2/p335/p335_410.wav|kˈɜːtənˌeɪ tˈʊk ˌoʊvɚɹ ˌɔn tˈʊɹ.
+DUMMY2/p294/p294_089.wav|sˈɛvən bɹˈɪɾɪʃ mˈɛmbɚz ʌvðə klˈʌb ɑːɹ mˈɪsɪŋ.
+DUMMY2/p294/p294_292.wav|ðɪs kʊd ˈɔːlsoʊ ɐfˈɛkt ðə sˈɛntənsɪŋ.
+DUMMY2/p302/p302_260.wav|aɪ stˈɑːɹɾᵻd ˌɔn ɐ fˈaɪɚɹ ɐ kˈʌpəl ʌv tˈaɪmz.
+DUMMY2/p294/p294_211.wav|aɪ lˈʌv ðɪs dʒˈɑːb.
+DUMMY2/p234/p234_271.wav|wˈɛl, ɪt wʌz sˈɜːʔn̩li dˈɪfɹənt.
+DUMMY2/p261/p261_090.wav|haʊˈɛvɚ, ˌɔn ðɪs ʃˈoʊɪŋ ɪts ɡˌoʊɪŋ təbi ɐ dˈɪfɪkəlt tˈæsk.
+DUMMY2/p294/p294_213.wav|wiː ɑːɹ vˈɛɹi, vˈɛɹi plˈiːzd wɪððə ɹᵻspˈɑːns.
+DUMMY2/p238/p238_032.wav|ðə stˈæf ɑːɹ vˈɛɹi ɡˈʊd.
+DUMMY2/p294/p294_151.wav|ɪts lˈaɪk ɐ skˈoːɹ ɪn sˌʌm wˈeɪz.
+DUMMY2/p294/p294_178.wav|hˈæɹi wɪl biː ˈʌp fɔːɹ ɪt.
+DUMMY2/p238/p238_319.wav|dʒˈɪm həznɑːt bˌɪn ɐ pɹˈɑːbləm fɔːɹ mˌiː æɾ ˈɔːl.
+DUMMY2/p362/p362_272.wav|ðɛɹz ˈɔːlweɪz ɐ tʃˈæns.
+DUMMY2/p326/p326_088.wav|wiː hæv ðˌɛm ɪn ˈɑːfɪsᵻz ˈɔːl ˈoʊvɚ.
+DUMMY2/p294/p294_274.wav|ɪts æz sˈɪmpəl æz ðˈæt.
+DUMMY2/p335/p335_200.wav|nˈɛkst tˈaɪm ɚɹˈaʊnd, ɪt wɪl biː dˈɪfɹənt.
+DUMMY2/p261/p261_281.wav|ðɪ ˈɔfɚ wɪl ɹˈʌn fɚðə nˈɛkst θɹˈiː wˈiːkɛndz.
+DUMMY2/p294/p294_152.wav|ɪts ɐ wˈʌndɚfəl pˈiːs ʌv wˈɔːɾɚ.
+DUMMY2/p362/p362_294.wav|ˈɔːl ɪz nˈaʊ fɚɡˈɪvən.
+DUMMY2/p294/p294_057.wav|aɪɐm nˌɑːt hˈɪɹ tə ɡɛt ˈiːvən.
+DUMMY2/p294/p294_112.wav|maɪ æmbˈɪʃən ɪz tə tˈɛl ɐ ɡˈʊd stˈoːɹi.
+DUMMY2/p362/p362_270.wav|wiː ɑːɹ mˈuːvɪŋ ˈɔn.
+DUMMY2/p362/p362_258.wav|sˈoʊ, hˌaʊ dˈɪd juː dˈuː?
+DUMMY2/p326/p326_111.wav|hˈoʊpfəli ðeɪ wɪl tˈɜːn ˈaʊt tənˈaɪt.
+DUMMY2/p234/p234_202.wav|jˈɛt ðə pɚfˈoːɹməns wʌz nˌɑːt ɛntˈaɪɚli kənvˈɪnsɪŋ.
+DUMMY2/p294/p294_363.wav|ɪɾ ɪz ˈɔːlsoʊ jˈuːzd tə bˈaɪ kˈɔfɪnz.
+DUMMY2/p238/p238_145.wav|hɪz klˈeɪmz wɜː kɹˈɪɾɪsˌaɪzd baɪ tʃˈiːf sˈɛkɹətɹi tə ðə tɹˈɛʒɚɹi ˈændɹuː smˈɪθ.
+DUMMY2/p302/p302_193.wav|skˈɑːɾɪʃ fˈɪʃɚmˌɛŋ kəmˈɛndᵻd ðə dᵻsˈɪʒən.
+DUMMY2/p238/p238_318.wav|sˈædli, ɪt dʌznˌɑːt ˈɛnd ðˈɛɹ.
+DUMMY2/p326/p326_312.wav|ðɪ ˈʌðɚ kəndˈɪʃənz wɜː nˌɑːt spˈɛsᵻfˌaɪd.
+DUMMY2/p362/p362_133.wav|lˈeɪbɚɹ ɪz pɹəvˈaɪdɪŋ nˈʌn ʌv ðˈiːz.
+DUMMY2/p362/p362_366.wav|wiː wɜː ɡˌɛɾɪŋ vˈɛɹi wˈʌɹid.
+DUMMY2/p294/p294_189.wav|ðə fˈɜːst mˈɪnɪstɚɹ ɪz ɐn ˈædɪkt.
+DUMMY2/p225/p225_171.wav|ðə ɹᵻpˈoːɹt wʌz kɹˈɪɾɪsˌaɪzd baɪ ðə skˈɑːɾɪʃ kənsˈuːmɚ kˈaʊnsəl.
+DUMMY2/p326/p326_268.wav|wɪɹ vˈɛɹi plˈiːzd ɐbˌaʊt ðə vˈɜːdɪkt.
+DUMMY2/p294/p294_327.wav|ɪz ðæt wʌt pˈiːpəl wiː wˈɔnt?
+DUMMY2/p362/p362_056.wav|ðɪs wʌz nˈoʊ ˈæksɪdənt.
+DUMMY2/p362/p362_061.wav|ænd ðɛɹ hɐzbɪn ɐ ɡˈʊd stˈɑːɹt.
+DUMMY2/p302/p302_191.wav|ɪts ɐmˈeɪzɪŋ ɪt hˈæpənd ɪn dˈeɪtaɪm.
+DUMMY2/p294/p294_357.wav|hiː kəmplˈiːtli lˈuːzᵻz kəntɹˈoʊl.
+DUMMY2/p238/p238_325.wav|ðɛɹ kəŋklˈuːʒənz wɜː nˈɛvɚ pˈʌblɪʃt.
+DUMMY2/p326/p326_192.wav|sˌoʊ juː θˈɪŋk juː wˈɔnt təbi vɪktˈoːɹiə?
+DUMMY2/p335/p335_203.wav|ðæt ɪz ɐ bɹˈænd nˈeɪm.
+DUMMY2/p238/p238_373.wav|bˌʌt juː nˈɛvɚ wˈʌn ˌɛni ɡˈeɪmz.
+DUMMY2/p294/p294_164.wav|hiː ˈɔːlsoʊ ɐdmˈɪɾᵻd.
+DUMMY2/p294/p294_060.wav|aɪ wɛnt wɪððə mˈuːd.
+DUMMY2/p234/p234_339.wav|aɪ θˈɪŋk ðɪ ˌoʊvɚɹˈɔːl pˈɪktʃɚɹ ɪz stˈɪl stɹˈɔŋ.
+DUMMY2/p335/p335_048.wav|ˌɔn ɹᵻflˈɛkʃən, ɪɾ ɪz mˈoːɹ ðɐn ðˈæt.
+DUMMY2/p326/p326_087.wav|aɪ kˌʊdənt bᵻlˈiːv ɪt, bˌʌt ɪt lˈʊks lˈaɪk ɪts tɹˈuː.
+DUMMY2/p347/p347_142.wav|aɪ fˈɛlt wiː nˈiːdᵻd tə bɹˈɪŋ ðæt ˈɪn.
+DUMMY2/p362/p362_387.wav|jˈɛs, ɪt tˈʊk tˈaɪm tə ɹᵻkˈʌvɚ.
+DUMMY2/p362/p362_215.wav|wiː ɑːɹ nˌɑːɾɚ ɹˈiːteɪlɚ, wiː pɹəvˈaɪd ɐ sˈɜːvɪs.
+DUMMY2/p294/p294_255.wav|ðɛɹˌɑːɹ stˈɪl sˌʌm mˈæɾɚz təbi dɪskˈʌst.
+DUMMY2/p294/p294_216.wav|wɪɹ vˈɛɹi, vˈɛɹi ɛksˈaɪɾᵻd.
+DUMMY2/p294/p294_391.wav|kˈælvɪn wʌz bˈæk æt hɪz bˈɛst tədˈeɪ.
+DUMMY2/p238/p238_036.wav|lˈɛt ðɛɹbˈiː nˈoʊ dˈaʊt ɐbˌaʊt ðˈæt.
+DUMMY2/p362/p362_062.wav|aɪ fˈiːl maɪ pˈɛɹənts ɑːɹ ɪn nˈuː jˈɔːɹk.
+DUMMY2/p347/p347_409.wav|wiː kˈænt wˈɪn ɐ bˈɪɡ ɡˈeɪm.
+DUMMY2/p326/p326_163.wav|ɪts ˈɔːlweɪz ɐ ɹᵻhˈɜːsəl.
+DUMMY2/p335/p335_078.wav|hˈɪstɚɹi ɪz jˈuːʒuːəli ɹˈɪʔn̩ baɪ ðə vˈɪktɚz.
+DUMMY2/p294/p294_134.wav|aɪ hæv hæd ɐ wˈʌndɚfəl kɚɹˈɪɹ.
+DUMMY2/p238/p238_101.wav|ɪt wɪl tˈeɪk ɐ fjˈuː jˈɪɹz bᵻfˌoːɹ wiː sˈiː ðə fˈʊl bˈɛnɪfˌɪt.
+DUMMY2/p294/p294_104.wav|aɪ ˈæskt tə tˈeɪk ɪɾ ˌʌp tə ɡlˈæzɡoʊ.
+DUMMY2/p302/p302_023.wav|ɪf ðə ɹˈɛd ʌvðə sˈɛkənd bˈoʊ fˈɔːlz əpˌɑːn ðə ɡɹˈiːn ʌvðə fˈɜːst, ðə ɹɪzˈʌlt ɪz tə ɡˈɪv ɐ bˈoʊ wɪð ɐn ɐbnˈoːɹməli wˈaɪd jˈɛloʊ bˈænd, sˈɪns ɹˈɛd ænd ɡɹˈiːn jˈɛloʊ lˈaɪt wɛn mˈɪkst fˈɔːɹm jˈɛloʊ.
+DUMMY2/p326/p326_227.wav|aɪ wʌz vˈɛɹi, vˈɛɹi hˈæpi.
+DUMMY2/p302/p302_134.wav|ɪt hɐzbɪn ɪn plˈeɪs sˈɪns lˈæst dʒuːlˈaɪ.
+DUMMY2/p245/p245_016.wav|nˈoːɹsɪmˌɛŋ kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.
+DUMMY2/p326/p326_264.wav|ʃiːz nˈaʊ ɔnðə bˈæk bˈɛntʃᵻz.
+DUMMY2/p326/p326_027.wav|ʃiː ɪz ɐn ˈeɪndʒəl.
+DUMMY2/p225/p225_219.wav|ðeɪ dɪdnˌɑːt ɐtˈæk ðə θˈiːmz ʌvðə bˈʊk.
+DUMMY2/p238/p238_104.wav|ðæt wʊd biː ðə kˈeɪs wɪð dˈʌndiː.
+DUMMY2/p362/p362_228.wav|sˈædli, ðeɪ dɪdnˈɑːt.
+DUMMY2/p362/p362_130.wav|bˌʌt hiː θˈɔːt ðɪ ˌoʊvɚɹˈɔːl ɹɪzˈʌlts wɜː ɡˈʊd.
+DUMMY2/p294/p294_072.wav|aɪ fˈaʊnd ðə kˈoːɹs ɪnspˈaɪɚɹɪŋ.
+DUMMY2/p238/p238_188.wav|hiː ɪz sɚvˈaɪvd baɪ hɪz wˈaɪf ænd tˈuː sˈʌnz.
+DUMMY2/p362/p362_139.wav|hiː dˈɪdnt ɡɛt ˈaʊt mˈʌtʃ.
+DUMMY2/p238/p238_460.wav|ɪɾ ɪz bˈɪznəs æz jˈuːʒuːəl.
+DUMMY2/p234/p234_296.wav|ðə ɹɪzˈʌlts ɑːɹ ɛkspˈɛktᵻd wɪðˌɪn dˈeɪz.
+DUMMY2/p238/p238_389.wav|aɪvhˌæd θɹˈiː ʃˈɑːts ænd ɡɑːt nˈoʊwɛɹ nˈɪɹ.
+DUMMY2/p294/p294_032.wav|aɪɐm dᵻlˈaɪɾᵻd æt mˈɜːɹeɪz ɐpˈɔɪntmənt.
+DUMMY2/p326/p326_369.wav|bɹˈoʊk dˌaʊn ænd kˈænt biː fˈɪkst.
+DUMMY2/p326/p326_174.wav|wiː ɑːɹ ɔːlɹˌɛdi ˌʌndɚ pɹˈɛʃɚ.
+DUMMY2/p362/p362_079.wav|aɪ dˈoʊnt nˈoʊ wʌt ɪt mˈiːnz.
+DUMMY2/p362/p362_064.wav|sˈiːmz ɐ sˈɛnsᵻbəl kˈɑːmpɹəmˌaɪz.
+DUMMY2/p238/p238_338.wav|wiːvhˌæd hˌɪm wɪð ˌʌs fɚðə pˈæst sˈɪks wˈiːks.
+DUMMY2/p294/p294_192.wav|juː kˈænt bᵻlˈiːv ɐ wˈɜːd.
+DUMMY2/p347/p347_372.wav|juː ɹˈiːəlaɪz wʌt ðɪs mˈiːnz?
+DUMMY2/p335/p335_351.wav|hiː dᵻnˈaɪd ðæt tˈækspeɪɚz mˈʌni wʌz ɪnvˈɑːlvd.
+DUMMY2/p245/p245_092.wav|hiːz ɐ stˈɑːɹ.
+DUMMY2/p362/p362_164.wav|ɪt wʌz hɪz ɡɹˈeɪɾɪst mˈuːvi pɚfˈoːɹməns.
+DUMMY2/p294/p294_290.wav|ɪts ɐ blˈʌnt ˈɪnstɹəmənt ˈɛnɪwˌeɪ.
+DUMMY2/p362/p362_276.wav|ðæts ɐ vˈɛɹi sˈɪɹiəs mˈæɾɚ.
+DUMMY2/p294/p294_194.wav|juː kˈænt ɡɛt ɐ mˈɔːɹɡɪdʒ.
+DUMMY2/p326/p326_315.wav|wɪɹ lˈʊkɪŋ æt ðə sˈɪɾɪzənz θˈiəɾɚ ðə laɪsˈiːəm.
+DUMMY2/p362/p362_293.wav|ðɛɹˌɑːɹ ˈʌðɚ θˈɪŋz ɡˌoʊɪŋ ˈɔn.
+DUMMY2/p347/p347_192.wav|maɪ æmbˈɪʃənz ɑːɹ stˈɪl wɪð fˈʊtbɔːl.
+DUMMY2/p362/p362_295.wav|sˌoʊ hˌuː ɪz ɹˈaɪt?
+DUMMY2/p326/p326_259.wav|aɪd lˈʌv tə hɐvbɪn ɔnðə pˈɪtʃ.
+DUMMY2/p362/p362_171.wav|dˈuː wiː wˈɔnt tə sˈiː ɪt?
+DUMMY2/p347/p347_080.wav|nˈoʊwˈʌn sˈɛd ˈɛnɪθˌɪŋ tə mˌiː.
+DUMMY2/p347/p347_091.wav|ðɪs ɪz maɪ lˈaɪf.
+DUMMY2/p362/p362_138.wav|hiː hɐz kɹiːˈeɪɾᵻd ðə kənfjˈuːʒən.
+DUMMY2/p294/p294_260.wav|aɪ hˈævənt ɐ klˈuː.
+DUMMY2/p294/p294_049.wav|wiːv ˈɔːl dˈʌn ɪt!
+DUMMY2/p294/p294_065.wav|pˈiːpəl ɹᵻmˈɛmbɚ ðə tˈoːɹiz ɪn ˈɑːfɪs.
+DUMMY2/p362/p362_169.wav|aɪ ˈɔːlweɪz wˈɔntᵻd hɜː təbi hˈæpi.
+DUMMY2/p294/p294_368.wav|hiː fˈaʊnd ɪt vˈɛɹi hˈɑːɹd tʊ ˌʌndɚstˈænd.
+DUMMY2/p294/p294_302.wav|ˈɛvɹɪθˌɪŋ ɪz sˌoʊ kəmˈɜːʃəl.
+DUMMY2/p238/p238_423.wav|ɪɾ ˈɔːlsoʊ mˌeɪks ɐ hˈæbɪt ʌv kəlˈɛktɪŋ pˈiːpəl.
+DUMMY2/p234/p234_158.wav|ðə plˈeɪɚz wɜːɹ ˌʌndɚ pɹˈɛʃɚ.
+DUMMY2/p362/p362_230.wav|hiː hɐz ˈɛvɹi ɹˈaɪt tə dˈuː ðˈæt.
+DUMMY2/p294/p294_100.wav|juː ʃˌʊdəv lˈɛt ɪt ɹˈaɪt ðə kˈɑːɹdz.
+DUMMY2/p238/p238_448.wav|ˌaʊɚ pɚfˈoːɹməns kəntˈɪnjuːz təbi aʊtstˈændɪŋ.
+DUMMY2/p294/p294_306.wav|ðɪ ˈɔːɹdɚ wɛnt ˈaʊt.
+DUMMY2/p362/p362_182.wav|ˈɪŋɡlənd wɪl biː kwˈaɪt pɹɪpˈɛɹd.
+DUMMY2/p335/p335_192.wav|ðæt wˈʌzn̩t fɔːɹ mˌiː.
+DUMMY2/p234/p234_117.wav|ænd wiː hæd ɐ ɡˈʊd ɹᵻspˈɑːns.
+DUMMY2/p294/p294_208.wav|ðɪs klˈʌb ɪz pˈɜːfɛkt fɔːɹ mˌiː.
+DUMMY2/p347/p347_126.wav|wiː ɑːɹ ɪnðə bˈɪznəs ʌv sˈɛlɪŋ tˈɪkɪts.
+DUMMY2/p225/p225_051.wav|wiː ɑːɹ kəmˈɪɾᵻd tə ðə bˈæn.
+DUMMY2/p335/p335_041.wav|aɪ ˈoʊnli hˈæf bᵻlˈiːvd ɪt.
+DUMMY2/p302/p302_291.wav|hiː ɪz ɐ səksˈɛs stˈoːɹi baɪ ˌɛni stˈændɚd.
+DUMMY2/p326/p326_225.wav|smˈɪθ kənfˈɜːmd ðæt ðɛɹ kˈɑːnfɪdəns wʌz ɹᵻtˈɜːnɪŋ.
+DUMMY2/p234/p234_253.wav|ɪt wʌz dʒˈʌst ɐnˈʌðɚ plˈeɪ.
+DUMMY2/p335/p335_274.wav|wiː kæn dˈuː nˈʌθɪŋ ɐbˌaʊt ðˈæt.
+DUMMY2/p362/p362_354.wav|wiː ɑːɹ dᵻlˈaɪɾᵻd wɪððə ɹɪzˈʌlt.
+DUMMY2/p335/p335_163.wav|bˌʌt ðə pɹˈaɪs hɐzbɪn vˈɛɹi hˈaɪ.
+DUMMY2/p238/p238_212.wav|ɪɾ ɪz tˈaɪm fɔːɹ kənfˈɛʃən.
+DUMMY2/p225/p225_173.wav|bˌʌt ðə stˈoːɹi ʌvðə plˈeɪ ɪz wˈɜːθ ɐ plˈeɪ ɪn ɪtsˈɛlf.
+DUMMY2/p362/p362_132.wav|aɪ hɐdbɪn hˈoʊpɪŋ fɔːɹ dʒˈʌstɪs.
+DUMMY2/p302/p302_005.wav|ʃiː kæn spˈuːn ðiːz θˈɪŋz ˌɪntʊ hɜː θɹˈiː bˈæɡz, ænd wiː wɪl ɡˌoʊ mˈiːt hɜː wˈɛnzdeɪ æt ðə tɹˈeɪn stˈeɪʃən.
+DUMMY2/p362/p362_253.wav|sˌoʊ wʌt wɛnt ɹˈɔŋ?
+DUMMY2/p294/p294_054.wav|wˌʌt ɪz ðə pˈɔɪnt ʌv dʒˈeɪlɪŋ hˌɪm?
+DUMMY2/p335/p335_136.wav|sˈʌdənli, dᵻɹˈɛktɪŋ wʌzðə θˈɪŋ hiː wˈɔntᵻd tə dˈuː.
+DUMMY2/p362/p362_254.wav|wiː dɪdnˌɑːt plˈeɪ wˈɛl.
+DUMMY2/p347/p347_284.wav|ɪts ɪnðɪ ˈaɪz.
+DUMMY2/p335/p335_254.wav|fˈaɪnəli ˈækʃən hɐdbɪn tˈeɪkən.
+DUMMY2/p326/p326_230.wav|wˌʌt ɪz ðə pˈɔɪnt ʌv dʒˈeɪlɪŋ hˌɪm?
+DUMMY2/p362/p362_135.wav|nˈoʊ ˈʌðɚ vˈiəkəl wʌz ɪnvˈɑːlvd ɪnðə kɹˈæʃ.
+DUMMY2/p335/p335_089.wav|wiː stˈɪl dˈoʊnt nˈoʊ wʌts hˈæpənd.
+DUMMY2/p234/p234_315.wav|ðeɪ hæv sˈɛt ðə stˈændɚd.
+DUMMY2/p362/p362_413.wav|wiː ɑːɹ tɹˈaɪɪŋ tə dˈuː ɪt pɹˈɑːpɚli.
+DUMMY2/p234/p234_255.wav|ðə wˈɜːld ɪz ɐ ɡˈʊd plˈeɪs.
+DUMMY2/p362/p362_173.wav|ɐn ˈɪŋkwɚɹi hɐz bɪɡˈʌn.
+DUMMY2/p362/p362_067.wav|aɪ dˈoʊnt hæv ɐ pɹˈɑːbləm wɪð ɪt.
+DUMMY2/p294/p294_131.wav|aɪ kˈænt sˈiː hˌɪm ɹᵻvˈɜːsɪŋ ðˈæt.
+DUMMY2/p347/p347_077.wav|wˈʌn θˈɪŋ ɪz sˈɜːʔn̩.
+DUMMY2/p261/p261_229.wav|lˈaɪf ɪz tˈuː ʃˈɔːɹt təbi bˈɪɾɚ.
+DUMMY2/p234/p234_214.wav|ðɪs ɪz ɐn ˈɪntɹɪstɪŋ lˈɪŋk.
+DUMMY2/p234/p234_229.wav|wiː ɑːɹ wˈeɪɾɪŋ fɚðə mˈɪnɪstɚ tə kˈʌm bˈæk wɪð ɐn ˈænsɚ.
+DUMMY2/p294/p294_224.wav|ɪt ʃˌʊd biː ɐ pɹˈɪɾi ɛksˈaɪɾɪŋ sˈɛʃən.
+DUMMY2/p362/p362_193.wav|ðɪs ɪz ɐ bˈɪznəs.
+DUMMY2/p238/p238_285.wav|bˌʌt aɪ wʌz ɡlˈæd tə sˈiː ðiːz ˈɪntɚvjˌuːz.
+DUMMY2/p238/p238_353.wav|ðɪs mˈɛʒɚɹ ɪz nˌɑːt ɐdʒˈʌstᵻd fɔːɹ sˈiːzənəl fˈæktɚz.
+DUMMY2/p302/p302_015.wav|ðə ɡɹˈiːks jˈuːzd tʊ ɪmˈædʒɪn ðˌɐɾɪt wʌzɐ sˈaɪn fɹʌmðə ɡˈɑːd tə foːɹtˈɛl wˈɔːɹ ɔːɹ hˈɛvi ɹˈeɪn.
+DUMMY2/p326/p326_254.wav|maɪ fˈæmɪli, hˈɛlθ ænd ɡˈɑːlf ɪz ˈɔːlweɪz ɐ bˈælənsɪŋ ˈækt.
+DUMMY2/p335/p335_205.wav|ɪɾ ɪz bˈɛst vˈæljuː.
+DUMMY2/p234/p234_264.wav|skˈɑːtlənd plˈeɪd ɐ mˈeɪdʒɚ pˈɑːɹt ɪnðə pɹˈɑːdʒɛkt.
+DUMMY2/p294/p294_209.wav|ænd dˈuː juː nˈoʊ, ɪt dʒˈʌst wˈʌzn̩t ðə sˈeɪm.
+DUMMY2/p362/p362_179.wav|wˌʌt wʌz ðæt ˈɔːl ɐbˈaʊt?
+DUMMY2/p238/p238_390.wav|ɪts dˈɪfɪkəlt tə pˌʊt ɐ dˈeɪt ˈɔn.
+DUMMY2/p294/p294_038.wav|ðɛɹ æmbˈɪʃən ɪz tə ɡˌoʊ bˈæk.
+DUMMY2/p294/p294_077.wav|ɪt wɪl nˌɑːt biː ɐ lˈɔŋ kæmpˈeɪn.
+DUMMY2/p362/p362_324.wav|aɪ θˈɪŋk ʃiː wʌz ɹˈaɪt.
+DUMMY2/p294/p294_056.wav|ðɪs ɪz ɐ pˈɑːsᵻbəl wˈeɪ fˈɔːɹwɚd.
+DUMMY2/p238/p238_194.wav|hiː hɐz hæd səksˈɛs æɾ ˈɛvɹi lˈɛvəl.
+DUMMY2/p347/p347_062.wav|ðə mˈɛsɪdʒ ɪz dʒˈʌst nˌɑːt ɡˌɛɾɪŋ θɹˈuː.
+DUMMY2/p225/p225_133.wav|aɪ θˈɪŋk hiːz ðə fˈeɪvɹɪt.
+DUMMY2/p294/p294_019.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðæt ɪts nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.
+DUMMY2/p326/p326_040.wav|ðə pəlˈiːs bᵻlˈiːv ðə mˈæn wʌz nˌɑːt ˈɪndʒɚd.
+DUMMY2/p362/p362_318.wav|ɪɾ ɪz ɡˈʊd nˈuːz fɔːɹ ˌʌs.
+DUMMY2/p362/p362_044.wav|ðɪs ɪz ˈoʊnli wˈʌn ɛɡzˈæmpəl.
+DUMMY2/p326/p326_231.wav|ðeɪ mˌeɪd ɪt vˈɛɹi dˈɪfɪkəlt fɔːɹ ˌʌs.
+DUMMY2/p234/p234_349.wav|wiː ɑːɹ nˌɑːt ˈɪntɹɪstᵻd ɪn dˈɪvɪdˌɛndz.
+DUMMY2/p261/p261_211.wav|aɪ tʃˈoʊz tə ɡˌoʊ baɪ ðə ɹˈuːlz.
+DUMMY2/p294/p294_321.wav|wiː nˈoʊ wiː hæv dˈʌn ɹˈɔŋ.
+DUMMY2/p362/p362_088.wav|ðeɪ kʊd nˌɑːɾɐv dˈʌn mˈoːɹ fɔːɹ mˌiː.
+DUMMY2/p326/p326_216.wav|jʊɹ ɡˌoʊɪŋ tə tˈeɪk ɐwˈeɪ maɪ lˈaɪf.
+DUMMY2/p225/p225_318.wav|ðə pɹˈɑːbləm wʌz hiː θˈɔːt juː wɜːɹ ɐ bˈɪɡ mˈæn.
+DUMMY2/p335/p335_028.wav|lˈɛts nˌɑːt ɡˌoʊ ˌoʊvɚbˈoːɹd.
+DUMMY2/p347/p347_306.wav|ænd wiː wɜː ɹˈaɪt.
+DUMMY2/p294/p294_338.wav|nˈoʊwˈʌn ˈɛls wʌz hˈɜːt.
+DUMMY2/p294/p294_147.wav|ʃiː wʌz ˈɔːlweɪz ɐ kwˈɔlɪɾi ˈækt.
+DUMMY2/p294/p294_035.wav|ɐ nˈeɪbɚ sˈɛd ðə stɹˈiːt wʌz ʃˈɑːkt.
+DUMMY2/p294/p294_374.wav|wiː ˈɔːlsoʊ hæv hædtə wˈɜːk ðə dˈɑːɹk sˈaɪd, ɪf juː wˈɪl.
+DUMMY2/p294/p294_388.wav|bˌʌt wˈʌt ɪz?
+DUMMY2/p326/p326_086.wav|aɪ kˈænt bᵻlˈiːv ɪt.
+DUMMY2/p326/p326_287.wav|wiː hæv tə fˈoʊkəs ˌɔn wʌt ɪz ɪmpˈoːɹtənt.
+DUMMY2/p302/p302_058.wav|wiː mˈʌst ɪmpɹˈuːv ˌaʊɚ ɹᵻlˈeɪʃənz wɪððə ɡˈʌvɚnmənt.
+DUMMY2/p335/p335_169.wav|wˌɛɹ ɪz ðə stɹˈʌktʃɚ?
+DUMMY2/p326/p326_100.wav|ɪt wʌz sˈɛt ɪn ɐ kˈæfeɪ.
+DUMMY2/p238/p238_237.wav|hˈɪɹ wʌz ɐn ˈæntaɪ səpˈoːɹɾɪŋ ðə bˈɪl.
+DUMMY2/p294/p294_351.wav|ðæt wʌzðə tˈaɪp ʌv mˈæn hiː wʌz.
+DUMMY2/p238/p238_133.wav|wɪɹ vˈɛɹi ˈɪntɹɪstᵻd ɪn ˈoʊpənɪŋ ˌʌp ɪn dʒˈɜːməni.
+DUMMY2/p335/p335_084.wav|ðeɪɚ kəmplˈiːtli dˈɪfɹənt fɹʌm ˈiːtʃ ˈʌðɚ.
+DUMMY2/p335/p335_069.wav|ɪɾ ɪz ɐ fˈæmɪli dˈeɪ ˈaʊt.
+DUMMY2/p326/p326_228.wav|nˈoʊwˈʌn ʃˌʊd sˈiː ðˈæt.
+DUMMY2/p294/p294_239.wav|dˈuː ɪt fɔːɹ ˌʌs nˈaʊ.
+DUMMY2/p294/p294_129.wav|ðeɪ wɜː mˈæɹid ɪn ˈɛdɪnbʌɹə lˈæst sˈʌmɚ.
+DUMMY2/p234/p234_278.wav|fɹˈæŋkli, wiː wɜː lˈʌki tə ɡɛt sˈɛkənd.
+DUMMY2/p294/p294_117.wav|ænd ʃiː ɡˈɑːt ɪt.
+DUMMY2/p362/p362_066.wav|ɪnðə mˈiːntaɪm, juː dʒˈʌst hæv tə ɡɛt ˈɔn wɪð ɪt.
+DUMMY2/p294/p294_277.wav|fɹʌm ðˈɛɹ, ɪt wʌzɐ səksˈɛs stˈoːɹi.
+DUMMY2/p335/p335_289.wav|ˌɔn əkˈeɪʒənz hiː səksˈiːdᵻd.
+DUMMY2/p362/p362_326.wav|kɹˈɪsməs ɪz spˈɛʃəl, ɐ tˈaɪm fɔːɹ ɹᵻflˈɛkʃən.
+DUMMY2/p326/p326_233.wav|juː ɹˈaɪt ɐ plˈeɪ.
+DUMMY2/p326/p326_143.wav|ɪts nˌɑːt hˈɑːɹd tə ɡɛt ɪnvˈɑːlvd.
+DUMMY2/p238/p238_214.wav|hˈɑːspɪɾəl stˈæf dᵻskɹˈaɪbd hɪz kəndˈɪʃən æz sˈɪɹiəs bˌʌt stˈeɪbəl.
+DUMMY2/p362/p362_305.wav|hiː dˈɪd ɪɾ ˈɔːl fɔːɹ ˌʌs.
+DUMMY2/p362/p362_280.wav|ɪt hɐzbɪn ɐ mˈeɪdʒɚ səksˈɛs.
+DUMMY2/p261/p261_384.wav|wiː ɹᵻɡɹˈɛt ðæt ðeɪ wɜː bɹˈɔːt ɪnðə fˈɜːst plˈeɪs.
+DUMMY2/p326/p326_279.wav|ðæt ɪz wˌɛɹ ˌaʊɚ fjˈuːtʃɚ lˈaɪz.
+DUMMY2/p294/p294_149.wav|aɪm ʃˈʊɹ ðæt ɪz nˈɑːt.
+DUMMY2/p294/p294_106.wav|ðɪ ˈʌðɚ kəndˈɪʃənz wɜː nˌɑːt spˈɛsᵻfˌaɪd.
+DUMMY2/p234/p234_320.wav|hiː ɹᵻfjˈuːzd tə ɹᵻvˈiːl ðə ɹˈiːzənz fɚðə splˈɪt.
+DUMMY2/p362/p362_288.wav|aɪ dˈoʊnt sˈiː ˌɛni pɹˈɑːbləm.
+DUMMY2/p326/p326_124.wav|nˈɔːɹ ɪz hiː ɐlˈaʊd ˈaʊt wɪðˌaʊt pɚmˈɪʃən.
+DUMMY2/p225/p225_202.wav|ðɪ əkˈeɪʒən wʌzðə nˈuː lˈeɪbɚ kˈɑːnfɹəns ɪn bɹˈaɪtən lˈæst jˈɪɹ.
+DUMMY2/p294/p294_272.wav|fɔːɹ nˈaʊ, ðeɪ hæv ɡɔn æz fˈɑːɹ æz ðeɪ kˈæn.
+DUMMY2/p326/p326_331.wav|hiː dˈɪd, ænd hiː mˈɪst.
+DUMMY2/p294/p294_369.wav|bˌʌt ɪt wʊd tʃˈeɪndʒ ðə kˈɑːntɛkst.
+DUMMY2/p347/p347_224.wav|juː kæn nˈɛvɚ tˈɛl.
+DUMMY2/p261/p261_067.wav|ðæts nˌɑːt ðɪ ɪntˈɛnʃən æɾ ˈɔːl.
+DUMMY2/p326/p326_150.wav|jˈɛt ɪt dʌznˌɑːt lˈuːz ɐpˈiːl.
+DUMMY2/p335/p335_058.wav|lˈɛts sˈiː ðæt ˈɪnkɹiːs ˌoʊvɚ ðə jˈɪɹz.
+DUMMY2/p225/p225_038.wav|dˈaɪvɪŋ ɪz nˈoʊ pˈɑːɹt ʌv fˈʊtbɔːl.
+DUMMY2/p261/p261_218.wav|ˈɔːl wɪl biː ɹɪvˈiːld ɪn dˈuː kˈoːɹs.
+DUMMY2/p294/p294_317.wav|ɪt dˈɪdnt pˌʊt mˌiː ˈɔf.
+DUMMY2/p302/p302_297.wav|aɪm tɹˈaɪɪŋ tə stˈeɪ ˈoʊpən ˌɑːn ðˈæt.
+DUMMY2/p294/p294_283.wav|ðɪs ɪz ˌaʊɚɹ ʌnfˈɪnɪʃt bˈɪznəs.
+DUMMY2/p362/p362_247.wav|ðɪs wʊd ɡˈɪv skˈɑːtlənd ɐɹˈaʊnd ˈeɪt mˈɛmbɚz.
+DUMMY2/p326/p326_031.wav|juːnˈaɪɾᵻd wɜːɹ ɪn kəntɹˈoʊl wɪðˌaʊt ˈɔːlweɪz bˌiːɪŋ dˈɑːmɪnənt.
