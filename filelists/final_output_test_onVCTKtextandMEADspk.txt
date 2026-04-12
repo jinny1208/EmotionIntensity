@@ -1,0 +1,342 @@
+/home/mila/j/jeony/scratch/MEAD_processed/M009_sad_level2_028.wav|wˌɛn wiː lˈʊkt æt ðə kˈʌmpəni.|When we looked at the company.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_sad_level3_028.wav|ɪt wʌz ɐn ˈɑːd ɐfˈɛɹ, ɪn mˈɛni ɹɪspˈɛkts.|It was an odd affair, in many respects.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_sad_level1_028.wav|ɪts nˌɑːt lˈɑːŋ ɪnˈʌf.|It's not long enough.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level2_023.wav|ðæt kˈeɪs hɐz stˈɪl nˌɑːt bˌɪn sˈɛɾəld.|That case has still not been settled.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level1_023.wav|haʊˈɛvɚ, ðɛɹwˌʌz nˈoʊ hˈoʊp, ænd ɡlˈoːɹi tˈuː, fɔːɹ skˈɑːtlənd.|However, there was no hope, and glory too, for Scotland.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level3_023.wav|ðə ɹˈiːfʌnd ɪz fˈʊli dʒˈʌstɪfˌaɪd.|The refund is fully justified.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_happy_level1_001.wav|ɪt ɪz nˌɑːt sˈæɾɪsfˌaɪd wɪððə stˈændɚd ʌv fˈaɪɚ sˈeɪfti pɹəvˈɪʒənz.|It is not satisfied with the standard of fire safety provisions.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_happy_level3_001.wav|wˌɛn ɐ mˈæn lˈʊks fɔːɹ sˈʌmθɪŋ bɪjˌɑːnd hɪz ɹˈiːtʃ, hɪz fɹˈɛndz sˈeɪ hiːz lˈʊkɪŋ fɚðə pˈɑːt ʌv ɡˈoʊld æt ðɪ ˈɛnd ʌvðə ɹˈeɪnboʊ.|When a man looks for something beyond his reach, his friends say he's looking for the pot of gold at the end of the rainbow.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_happy_level2_001.wav|ɔːɹ ɹˈæðɚ hiː dˈɪd ænd hiː dˈɪdnt.|Or rather he did and he didn't.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_angry_level3_007.wav|ɪt wʌz sˈoʊld æɾə lˈɔs.|It was sold at a loss.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_angry_level1_007.wav|hˌuː hɐz ðə sˈɛkənd hˈaɪəst?|Who has the second highest?
+/home/mila/j/jeony/scratch/MEAD_processed/W018_angry_level2_007.wav|hiː sˈiːmz tə hæv ˈɛvɹɪθˌɪŋ.|He seems to have everything.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_neutral_level1_019.wav|ðiːz tˈeɪk ðə ʃˈeɪp əvə lˈɑːŋ ɹˈaʊnd ˈɑːɹtʃ, wɪð ɪts pˈæθ hˈaɪ əbˈʌv, ænd ɪts tˈuː ˈɛndz ɐpˈæɹəntli bɪjˌɑːnd ðə hɚɹˈaɪzən.|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_angry_level2_007.wav|ɪt sˈɜːtənli sˈaʊndᵻd ɪt æt tˈaɪmz.|It certainly sounded it at times.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_angry_level3_007.wav|ˈaɪ kˈænt ˈiːvən ɡɛt ˌɪntʊ ðɪ ɐ tˈiːm.|I can't even get into the A team.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_angry_level1_007.wav|ɪt wˈʌznt dʒˈʌst ðə kˈæɹɪktɚ ænd ˈɛnɚdʒi ʌvðə plˈeɪɪŋ.|It wasn't just the character and energy of the playing.
+/home/mila/j/jeony/scratch/MEAD_processed/W035_neutral_level1_007.wav|ɪt mˈeɪ ˈɑːlsoʊ biː hɜː lˈæst.|It may also be her last.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_angry_level3_009.wav|ˈaɪ hɐd ɐ fˈɔːɹtʃənət wˈɔːɹ.|I had a fortunate war.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_angry_level1_009.wav|ˌɑːn fjˈuːəl, ðə tʃˈænsɛlɚ hɐz ɐ nˈʌmbɚɹ ʌv ˈɑːpʃənz.|On fuel, the Chancellor has a number of options.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_angry_level2_009.wav|ˌaʊɚ mˈʌðɚɹ ɪz vˈɛɹi wˈʌɹɪd.|Our mother is very worried.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_sad_level1_008.wav|ɪt ɪz dʒˈʌst tˈuː lˈɑːŋ sˈɪns ðə wˈɔːɹ.|It is just too long since the war.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_sad_level3_008.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹɪflˈɛkʃən, bˌʌt ɹɪfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_sad_level2_008.wav|ɪnʃˈʊɹəns wɪl biː kˈʌvɚd baɪ ðə ɹɪsˈiːvɪŋ ɡˈælɚɹiz.|Insurance will be covered by the receiving galleries.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_happy_level1_009.wav|ɪt hɐzbɪn ɹɪkˈoːɹdᵻd twˈaɪs.|It has been recorded twice.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_happy_level2_009.wav|wˈɛðɚ hɪz stˈæns ɪz ʃˈɛɹd baɪ ðɪ ˈɪnkʌmˌɪŋ mˈænɪdʒɚɹ ɪz ɐnˈʌðɚ mˈæɾɚ.|Whether his stance is shared by the incoming manager is another matter.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_happy_level3_009.wav|ɪt wʌz kɹˈuːʃəl stɹˈaɪk.|It was crucial strike.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_neutral_level1_010.wav|hiː ɪz ɪnvˈɑːlvd ɪn ˈɛvɹɪθˌɪŋ.|He is involved in everything.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_sad_level2_027.wav|hˌuː ɑːɹ ðə pˈʌblɪk?|Who are the public?
+/home/mila/j/jeony/scratch/MEAD_processed/M011_sad_level1_027.wav|ɪt mˈiːnz ðə mˈɑːɹdʒɪn fɔːɹ ˈɛɹɚɹ ɪz tˈaɪt.|It means the margin for error is tight.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_sad_level3_027.wav|ʃiː wʌz vˈɛɹi dˈɪfɹənt.|She was very different.
+/home/mila/j/jeony/scratch/MEAD_processed/M003_fear_level1_025.wav|ɪɾ ɪz ɐ wˈʌɹi.|It is a worry.
+/home/mila/j/jeony/scratch/MEAD_processed/M003_fear_level3_025.wav|ðæt ɪz maɪ kəmˈɪtmənt.|That is my commitment.
+/home/mila/j/jeony/scratch/MEAD_processed/M003_fear_level2_025.wav|hiː ɪz ɐ mˈæstɚɹ ʌv dᵻsˈiːt ænd dᵻlˈeɪ.|He is a master of deceit and delay.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_fear_level1_022.wav|ðə ɹˈiːəl pɹˈɑːbləm ɪz ðɪ ˈʌʃɚ hˈɔːl.|The real problem is the Usher Hall.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_fear_level2_022.wav|aɪ hæv nˈoʊ sˈiːkɹᵻts.|I have no secrets.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_fear_level3_022.wav|ðə tˈaɪmɪŋ ɪz ˈɑːbviəs.|The timing is obvious.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_neutral_level1_017.wav|ˈænd, wɪðˌɪn ɪtsˈɛlf, ɪɾ ɪz vˈɪʒənˌɛɹi.|And, within itself, it is visionary.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_neutral_level1_019.wav|ðɪs ɪz ðɪ ˈoʊnli pɹˈɑːbləm wɪððə stˈoːɹi.|This is the only problem with the story.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_neutral_level1_002.wav|bˌʌt ðə kˈɪlɪŋ wɪl kəntˈɪnjuː.|But the killing will continue.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level3_011.wav|wiː ɑːɹ ˈɔːlsoʊ lˈʊkɪŋ fɔːɹ nˈuː lˈaɪsənsᵻz.|We are also looking for new licences.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level1_011.wav|wiː hæv tə fˈoʊkəs ˌɔn wʌt ɪz ɪmpˈoːɹtənt.|We have to focus on what is important.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level2_011.wav|ɑːɹ wiː ɡˌoʊɪŋ mˈeɪnstɹiːm?|Are we going mainstream?
+/home/mila/j/jeony/scratch/MEAD_processed/M033_neutral_level1_028.wav|ænd hiːz ðə ɹˈiːəl θˈɪŋ.|And he's the real thing.
+/home/mila/j/jeony/scratch/MEAD_processed/M032_surprised_level3_028.wav|hiː hæd ˈæskt ɪf ðeɪ hæd ðə skɹˈɪpt.|He had asked if they had the script.
+/home/mila/j/jeony/scratch/MEAD_processed/M032_surprised_level1_028.wav|wˌʌt kˈaɪnd ʌv ɪŋklˈuːʒən ɪz ðˈæt?|What kind of inclusion is that?
+/home/mila/j/jeony/scratch/MEAD_processed/M032_surprised_level2_028.wav|wˌʌt ʃiː wɪl dˈuː nˈɛkst?|What she will do next?
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level3_012.wav|juː nˈɛvɚ hˌædɪt sˌoʊ ɡˈʊd.|You never had it so good.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level1_012.wav|ɪts ɹˈiəli nˈʌθɪŋ nˈuː.|It's really nothing new.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level2_012.wav|ðə mˈɑːɹkɪt ɪz ɐpˈɔːlɪŋ fɔːɹ ɪnˈɪʃəl pˈʌblɪk ˈɔfɚɹɪŋz.|The market is appalling for initial public offerings.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level1_023.wav|ðeɪ wɛnt dˌaʊn təɡˈɛðɚ.|They went down together.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level2_023.wav|juː wɜː vˈɛɹi pɹˈaʊd ðæt dˈeɪ təbi ɐmˌʌŋ ðɛɹ fɹˈɛndz.|You were very proud that day to be among their friends.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level3_023.wav|ɡlˈæzɡoʊ ɪz ɐ vˈɛɹi wˈɛlkʌmɪŋ plˈeɪs.|Glasgow is a very welcoming place.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_surprised_level3_008.wav|hiː ɪz ɐ ɡˈʊd fɹˈɛnd.|He is a good friend.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_surprised_level1_008.wav|aɪ dˈoʊnt wˈɔnt tə kˈʌm dˈaʊn.|I don't want to come down.
+/home/mila/j/jeony/scratch/MEAD_processed/W029_surprised_level2_008.wav|hiː wʌz ɛkstɹˈiːmli nˈɜːvəs.|He was extremely nervous.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level1_030.wav|ðæɾəd biː ɡˈʊd fɚðə hˈoʊl sˈɪɾi.|That'd be good for the whole city.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level2_030.wav|ɡˈæs ɪz tˈuː ɛkspˈɛnsɪv.|Gas is too expensive.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level3_030.wav|hiː ˈædᵻd, wiː ɑːɹ fˈʊl ʌv ˈæŋɡɚ.|He added, We are full of anger.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_neutral_level1_022.wav|ðeɪ dˈɪdnt fˈaɪnd ˈɛnɪθˌɪŋ.|They didn't find anything.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_angry_level1_009.wav|aɪm hˈæpi wɪððɪ ˈaʊtkʌm.|I'm happy with the outcome.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_angry_level3_009.wav|ɪts nˌɑːt dʒˈʌst ɐ mˈeɪl ɐdʒˈɛndə.|It's not just a male agenda.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_angry_level2_009.wav|nˈoʊ wˈʌndɚ hiː mˈɪst ðə kənvˈɜːʒən.|No wonder he missed the conversion.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_fear_level3_008.wav|haʊˈɛvɚ, ɪt sˈiːmz ðæt hiː ɡɑːt ɪt ɹˈɔŋ.|However, it seems that he got it wrong.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_fear_level2_008.wav|ðɪs ɪz nˌɑːt pɹˈɛzəntli ðə kˈeɪs.|This is not presently the case.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_fear_level1_008.wav|juː kˈænt ɹˈiəli kəmpˈɛɹ.|You can't really compare.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level1_025.wav|ðæt ɪz maɪ dɹˈiːm.|That is my dream.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level3_025.wav|sˌoʊ wʌt ɪz ɪt wɪð nˈeɪɾoʊ?|So what is it with Nato?
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level2_025.wav|klˈɪɹli, ɪt kæŋ ɡˌoʊ ˈiːðɚ wˈeɪ.|Clearly, it can go either way.
+/home/mila/j/jeony/scratch/MEAD_processed/W023_fear_level1_024.wav|ɪts nˌɑːt maɪ fˈɔlt.|It's not my fault.
+/home/mila/j/jeony/scratch/MEAD_processed/W023_fear_level3_024.wav|aɪl hæv tə ɡˌoʊ ˈaʊt ænd ɪmpɹˈɛs.|I'll have to go out and impress.
+/home/mila/j/jeony/scratch/MEAD_processed/W023_fear_level2_024.wav|hiːz vˈɛɹi jˈʌŋ ænd vˈɛɹi kˈiːn tə dˈuː wˈɛl.|He's very young and very keen to do well.
+/home/mila/j/jeony/scratch/MEAD_processed/W038_neutral_level1_022.wav|sˈɪks mˈʌnθs lˈeɪɾɚ, ðeɪ ɹᵻtˈɜːnd tə skˈɑːtlənd.|Six months later, they returned to Scotland.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level2_002.wav|aɪ dʒˈʌst wˈʌzn̩t vˈɛɹi ɡˈʊd.|I just wasn't very good.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level3_002.wav|ðɪs ɪz ɐ vˈɛɹi sˈɪɹiəs mˈæɾɚ.|This is a very serious matter.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_surprised_level1_002.wav|ɪts ɐ dˈɪfɪkəlt wˈʌn tə kˈɑːmɛnt ˈɔn.|It's a difficult one to comment on.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_neutral_level1_008.wav|aɪ kˈænt spˈiːk fɔːɹ hˌɪm.|I can't speak for him.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_happy_level2_016.wav|sˌoʊ ɪz ðə ɹˈɛst ʌv bɹˈɪɾɪʃ spˈoːɹt.|So is the rest of British sport.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_happy_level3_016.wav|ðɪ əbzˈɜːvɚ sˈɔː nˈoʊ ˈɛvɪdəns ˈɑːfɚ fˈaɪɾɪŋ.|The observer saw no evidence ofr fighting.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_happy_level1_016.wav|wiː ʃˌʊd nˌɑːt bɹˈɪŋ hˌɪm ˌɪntʊ ɐ dɪspjˈuːt.|We should not bring him into a dispute.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level2_025.wav|ˈɛvɹɪθˌɪŋ ˈɛls ɪz ðə sˈeɪm.|Everything else is the same.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level1_025.wav|aɪm dˈiːpli sˈɑːɹi ðeɪ dˈɪd.|I'm deeply sorry they did.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level3_025.wav|θˈaʊzəndz ʌv ˈʌðɚz hɐvnˌɑːt bˌɪn sˌoʊ fˈɔːɹtʃənət.|Thousands of others have not been so fortunate.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_neutral_level1_019.wav|aɪ dˈoʊnt wˈɔnt tə tʃˈeɪndʒ ˈɛnɪθˌɪŋ.|I don't want to change anything.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level3_007.wav|lˈeɪbɚɹ ɪz pɹəvˈaɪdɪŋ nˈʌn ʌv ðˈiːz.|Labour is providing none of these.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level1_007.wav|ɪt dʒˈʌst wʊd nˌɑːt wˈɜːk.|It just would not work.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_sad_level2_007.wav|ænd hiː stˈɪl ɪz.|And he still is.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_neutral_level1_017.wav|pɚhˈæps ɪɾ ɪz ðə kɹˈaʊn ᵻstˈeɪt.|Perhaps it is the Crown Estate.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level1_007.wav|sˈiːmz ɐ sˈɛnsᵻbəl kˈɑːmpɹəmˌaɪz.|Seems a sensible compromise.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level2_007.wav|aɪ hæv tʊ ɐksˈɛpt ðˈæt.|I have to accept that.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level3_007.wav|lˈʌkili fɔːɹ ˌʌs, hiː ɛndʒˈɔɪd ðɪ ɛkspˈiəɹɪəns.|Luckily for us, he enjoyed the experience.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level1_022.wav|ɪɾ ɪz kwˈaɪt hˈɑːɹd tə tɹˈæk.|It is quite hard to track.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level3_022.wav|aɪv bˈiːʔn̩ hɜːɹ ɐ fjˈuː tˈaɪmz.|I've beaten her a few times.
+/home/mila/j/jeony/scratch/MEAD_processed/M039_sad_level2_022.wav|aɪ kˈænt spˈiːk fɔːɹ hˌɪm.|I can't speak for him.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_sad_level3_027.wav|ðeɪ hæv tə wˈɜːk sˌoʊ hˈɑːɹd.|They have to work so hard.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_sad_level1_027.wav|maɪ fˈɑːðɚ hɐdbɪn ʌnwˈɛl fɔːɹ mˈɛni jˈɪɹz.|My father had been unwell for many years.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_sad_level2_027.wav|ðæts ɐ ɡˈʊd sˈaɪn.|That's a good sign.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level2_007.wav|wiː wˈɔnt ˈɛvɹɪwˌʌn tə hæv ɐ ɡˈʊd tˈaɪm.|We want everyone to have a good time.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level3_007.wav|ðæt ɪz ðə nˈeɪtʃɚɹ ʌvðə ɡˈeɪm.|That is the nature of the game.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level1_007.wav|ðə tʃˈɔɪs ɪz sˈɪmpəl.|The choice is simple.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level3_001.wav|ðeɪ kˈeɪm ˌɪntʊ kəlˈɪʒən wɪð sˈɜːdʒɪˌoʊ.|They came into collision with Sergio.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level2_001.wav|ɪts dʒˈʌst ðə wˈɜːkɪŋz ʌvðə skˈɑːɾɪʃ mˈiːdiːə.|It's just the workings of the Scottish media.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level1_001.wav|ðɛɹwˌʌz nˈoʊ tʃˈeɪndʒ ɪnðə stɹˈæɾədʒi.|There was no change in the strategy.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_fear_level3_008.wav|aɪ sˈɛd ðæt aɪ hɐdbɪn ɹˈeɪpt.|I said that I had been raped.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_fear_level2_008.wav|juːv dʒˈʌst ɡɑːt tə mˈuːv ˈɔn.|You've just got to move on.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_fear_level1_008.wav|ɪɾ ɪz bᵻjˌɔnd ðə ɡˈʌvɚnmənt tə dˈiːl wɪð ðɪs tɹˈædʒədi.|It is beyond the government to deal with this tragedy.
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level1_008.wav|wiː dˈoʊnt nˈoʊ wʌt hˈæpənd ˈæftɚ.|We don't know what happened after.
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level3_008.wav|ðɪs kˈeɪm æz nˈoʊ ɡɹˈeɪt sɚpɹˈaɪz tʊ ˈɛnɪwˌʌn.|This came as no great surprise to anyone.
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level2_008.wav|ˌaʊɚ fjˈuːtʃɚ wʌz hɪz fjˈuːtʃɚ.|Our future was his future.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level2_010.wav|kˈæpɪɾəl ɡˈeɪnz tˈæks ɪz ˈɔːlsoʊ bˌiːɪŋ ɹᵻdˈuːst.|Capital gains tax is also being reduced.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level1_010.wav|nˈoʊ ˈʌðɚ vˈiəkəl wʌz ɪnvˈɑːlvd ɪnðə kɹˈæʃ.|No other vehicle was involved in the crash.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level3_010.wav|juː nˈɛvɚ hˌædɪt sˌoʊ ɡˈʊd.|You never had it so good.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level3_025.wav|wiː kˌʊdɐv dˈʌn wɪðˌaʊt ðˈɪs.|We could have done without this.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level1_025.wav|sˌoʊ ɪt wʌz sˈæd.|So it was sad.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level2_025.wav|ðɪ ɐpˈiːl ɪz ɪmpˈɑːɹʃəl.|The appeal is impartial.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_neutral_level1_024.wav|ˈiːvən ðə wˈɪnɪŋ klˈʌb wʌz wɪðˌɪn sˈɛkəndz ʌv dɪzˈæstɚ.|Even the winning club was within seconds of disaster.
+/home/mila/j/jeony/scratch/MEAD_processed/W035_happy_level1_001.wav|ðə tɹˈaɪəl kəntˈɪnjuːz tədˈeɪ.|The trial continues today.
+/home/mila/j/jeony/scratch/MEAD_processed/W035_happy_level2_001.wav|əbˌʌv ˈɔːl, ðɪ ɐpɹˈoʊtʃ ɪz ʌpbˈiːt.|Above all, the approach is upbeat.
+/home/mila/j/jeony/scratch/MEAD_processed/W035_happy_level3_001.wav|ðeɪ wɜː nˌɑːt sˈiːkɪŋ ðə ɹˈaɪt tə stɹˈaɪk.|They were not seeking the right to strike.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level3_007.wav|ɪts ðə pɚfˈoːɹməns wiː wˈɔnt.|It's the performance we want.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level1_007.wav|wiː kəntˈɪnjuː tə hˈoʊld ðə ʃˈɛɹz.|We continue to hold the shares.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level2_007.wav|ðæt ɪz dˈɪfɪkəlt tʊ ˈænsɚ.|That is difficult to answer.
+/home/mila/j/jeony/scratch/MEAD_processed/W033_neutral_level1_040.wav|ɪt tˈeɪks ɐ bˈɪt ʌv wˈɜːkɪŋ ˈaʊt.|It takes a bit of working out.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level3_010.wav|ðɛɹ ɪz nˈoʊ ʃˈɔːɹɾɪdʒ ʌv kəmˈɪtmənt.|There is no shortage of commitment.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level2_010.wav|wiː ˈɔːl hæv tə lˈʊk ɪnðə mˈɪɹɚ.|We all have to look in the mirror.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_fear_level1_010.wav|aɪv ɡɹˈoʊn ˌʌp ɐ bˈɪt.|I've grown up a bit.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level2_002.wav|ðɛɹwˌʌz nˈoʊ hˈæpɪnəs.|There was no happiness.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level3_002.wav|bˌʌt ɪt wʌz ˈɔːlsoʊ hˈɑːɹd.|But it was also hard.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_sad_level1_002.wav|dˈʌzənt mˈæɾɚ wʌt juː dˈuː.|Doesn't matter what you do.
+/home/mila/j/jeony/scratch/MEAD_processed/W040_happy_level3_001.wav|hiː ɪz ɪnvˈɑːlvd ɪn ˈɛvɹɪθˌɪŋ.|He is involved in everything.
+/home/mila/j/jeony/scratch/MEAD_processed/W040_happy_level2_001.wav|ɪɾ ɪz nˌɑːt sˌoʊ sˈɪmpəl.|It is not so simple.
+/home/mila/j/jeony/scratch/MEAD_processed/W040_happy_level1_001.wav|hiː ɡɑːt ðə pˈɑːɹt.|He got the part.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level1_024.wav|aɪ wɪl nˌɑːt tˈeɪk pˈɑːɹt ɪn ˈɛdmɔntən.|I will not take part in Edmonton.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level3_024.wav|aɪ hæv ɐ vˈɛɹi stɹˈɔŋ əpˈɪniən ɐbˌaʊt ðˈɪs.|I have a very strong opinion about this.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level2_024.wav|wɪɹ vˈɛɹi fˈɔːɹtʃənət tə hæv ðiːz nˈuː pɹˈɑːdʌkts tə fˈoʊkəs ˈɔn.|We're very fortunate to have these new products to focus on.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_fear_level1_008.wav|ɐ dᵻsˈɪʒən ɪz ɛkspˈɛktᵻd ɪn sɛptˈɛmbɚ.|A decision is expected in September.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_fear_level2_008.wav|wiː hæv kˈʌm ɐ lˈɔŋ wˈeɪ ɪnðə lˈæst fjˈuː sˈɛʃənz.|We have come a long way in the last few sessions.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_fear_level3_008.wav|bˌʌt əpˈoʊnənts wɜː kwˈɪk tə kɹˈɪɾɪsˌaɪz.|But opponents were quick to criticise.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_neutral_level1_010.wav|bɹˈaʊn ɪz ɐn ˈɪntɹɪstɪŋ mˈæn, bˌʌt hiːz nˌɑːt dˈɛspɚɹət.|Brown is an interesting man, but he's not desperate.
+/home/mila/j/jeony/scratch/MEAD_processed/W025_fear_level2_024.wav|nˌɑːt ɪn ðɪs pɹədˈʌkʃən hiː dˈʌzənt.|Not in this production he doesn't.
+/home/mila/j/jeony/scratch/MEAD_processed/W025_fear_level3_024.wav|aɪ dˈoʊnt nˈoʊ ðə nˈeɪtʃɚɹ ʌvðɪ ˈɪlnəs.|I don't know the nature of the illness.
+/home/mila/j/jeony/scratch/MEAD_processed/W025_fear_level1_024.wav|ðˈɛn ɪŋ kˈeɪm ɐ səksˈɛʃən ʌv sˈaɪnɪŋz.|Then in came a succession of signings.
+/home/mila/j/jeony/scratch/MEAD_processed/M009_neutral_level1_010.wav|hiː ɪz ɐ sˈɪɹiəl kənsˈɜːvətˌɪv ɐsˈæsɪn.|He is a serial Conservative assassin.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_surprised_level2_016.wav|hiːz ɔnðə ɹˈɔŋ sˈaɪd.|He's on the wrong side.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_surprised_level3_016.wav|ɪts nˌɑːt vˈɛɹi pɹˈɪɾi, bˌʌt ɪts ɪfˈɛktɪv.|It's not very pretty, but it's effective.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_surprised_level1_016.wav|wɪɹ stˈɪl hˈoʊpfəl ʌv kəŋklˈuːdɪŋ ðə dˈiːl.|We're still hopeful of concluding the deal.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level2_022.wav|ðɪs wʌz nˈoʊ ˈæksɪdənt.|This was no accident.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level1_022.wav|ʌv kˈoːɹs, ɪt dˈʌzənt ˈɔːl kˈʌm ˈɔf.|Of course, it doesn't all come off.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level3_022.wav|ɪt wʊd biː ɐ mˈɪɹəkəl.|It would be a miracle.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_surprised_level2_019.wav|bˌʌt ðɛɹˌɑːɹ sˌʌm pɹˈɑːbləmz.|But there are some problems.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_surprised_level1_019.wav|sˈɛvɹəl mˈɛsɪdʒᵻz kæn biː tˈeɪkən fɹʌmðɪ əkˈeɪʒən.|Several messages can be taken from the occasion.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_surprised_level3_019.wav|vˈɪzɪɾɚz wɜːɹ ˈɔːlsoʊ ɪmpɹˈɛst.|Visitors were also impressed.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_angry_level3_023.wav|wɪɹ tˈɔːkɪŋ ɐbˌaʊt wˈʌn ɔːɹ tˈuː jˈɪɹz.|We're talking about one or two years.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_angry_level1_023.wav|aɪ kˌʊdəntəv ˈæskt fɔːɹ bˈɛɾɚ.|I couldn't have asked for better.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_angry_level2_023.wav|aɪ ˈæskt tə tˈeɪk ɪɾ ˌʌp tə ɡlˈæzɡoʊ.|I asked to take it up to Glasgow.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level3_023.wav|sˌʌm dˈeɪz ɑːɹ dˈɪfɹənt fɹʌm ˈʌðɚz.|Some days are different from others.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level2_023.wav|ðɛɹˈɪn lˈaɪz ðə pɹˈɑːbləm.|Therein lies the problem.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_sad_level1_023.wav|wiːv ɡɑːt tə ɡɛt bˈæk tə nˈoːɹməl.|We've got to get back to normal.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_happy_level3_016.wav|mˈʌmi bᵻlˈiːvd ɪn wˈʌn θˈɪŋ əbˌʌv ˈɔːl.|Mummy believed in one thing above all.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_happy_level2_016.wav|ɪt hɐz mˌeɪd ɐ dˈɪfɹəns.|It has made a difference.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_happy_level1_016.wav|ɪt ɹˈeɪzᵻz ðɪ ˈɛdʒ.|It raises the edge.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_surprised_level2_016.wav|aɪ fˈaʊnd ðə kˈoːɹs ɪnspˈaɪɚɹɪŋ.|I found the course inspiring.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_surprised_level1_016.wav|aɪɐm dᵻlˈaɪɾᵻd tə hˈɪɹ ðɪs wˈʌndɚfəl nˈuːz.|I am delighted to hear this wonderful news.
+/home/mila/j/jeony/scratch/MEAD_processed/W026_surprised_level3_016.wav|ðeɪ ɑːɹ ɐ vˈɛɹi ɡˈʊd tˈiːm.|They are a very good team.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_neutral_level1_011.wav|tˈoʊni blˈɛɹ hɐz hæd ɐ ɡˈʊd kˈɑːnfɹəns.|Tony Blair has had a good conference.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_neutral_level1_022.wav|wiː ɑːɹ nˌɑːɾɚ ɹˈiːteɪlɚ, wiː pɹəvˈaɪd ɐ sˈɜːvɪs.|We are not a retailer, we provide a service.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level1_028.wav|ˈɛvɹɪwˌʌn dɪzˈɜːvz tə ʃˈɛɹ ɪn ðɪs səksˈɛs.|Everyone deserves to share in this success.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level3_028.wav|ðə pɹˈoʊɡɹæm wʌz ˈɔːfəl.|The programme was awful.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level2_028.wav|ɪts ˌaʊɚ wˈɜːst nˈaɪtmɛɹ.|It's our worst nightmare.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_surprised_level1_008.wav|nˌɑːt ðæt hiːz dᵻklˈaɪnd.|Not that he's declined.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_surprised_level2_008.wav|wiː dˈɪdnt mˈiːn tə kˈɪl hˌɪm.|We didn't mean to kill him.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_surprised_level3_008.wav|stˈændɚd lˈaɪf hɐz ˈɔːlsoʊ hˈaɪlaɪɾᵻd æmbˈɪʃənz ɪn ðɪs mˈɑːɹkɪt.|Standard Life has also highlighted ambitions in this market.
+/home/mila/j/jeony/scratch/MEAD_processed/M035_surprised_level3_011.wav|wˌɛn ɪɾ ɪz ɹˈɛdi, ɪt wɪl biː sˈaɪnd.|When it is ready, it will be signed.
+/home/mila/j/jeony/scratch/MEAD_processed/M035_surprised_level2_011.wav|pˌiːˈɑːɹ fɔːɹ wˈɛstmɪnˌɪstɚɹ ɪz ðɛɹ hˈoʊli ɡɹˈeɪl.|PR for Westminister is their holy grail.
+/home/mila/j/jeony/scratch/MEAD_processed/M035_surprised_level1_011.wav|ɪt wɪl nˌɑːt biː ɐ lˈɔŋ kæmpˈeɪn.|It will not be a long campaign.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level1_010.wav|aɪ hæv ɐ lˈɑːt ʌv kˈɑːnfɪdəns ɪn ðɪs tˈiːm.|I have a lot of confidence in this team.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level3_010.wav|wiː wʊd ɛkspˈɛkt ɪt tə dˌɪsɐpˈɪɹ ɪn tˈaɪm.|We would expect it to disappear in time.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level2_010.wav|ˈɑːɹsənəl kənsˈɪdɚd ðə dʒˈɑːb dˈʌn.|Arsenal considered the job done.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_sad_level2_009.wav|ɪɾ ɪz ɐ vˈɛɹi dʒˈɛnjuːɪn pɹˈɑːspɛkt.|It is a very genuine prospect.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_sad_level3_009.wav|ðeɪ hæv tə wˈɜːk sˌoʊ hˈɑːɹd.|They have to work so hard.
+/home/mila/j/jeony/scratch/MEAD_processed/W009_sad_level1_009.wav|aɪ wˈɔnt tə kˈɑːnsəntɹˌeɪt ɔnðə ɹˈiːəl ˈɪʃuːz.|I want to concentrate on the real issues.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_sad_level2_028.wav|ðə hˈoʊl ɛkspˈiəɹɪəns wʌz ʌplˈɪftɪŋ ænd hˈɑːɹtbɹeɪkɪŋ æt ðə sˈeɪm tˈaɪm.|The whole experience was uplifting and heartbreaking at the same time.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_sad_level3_028.wav|juː hæv tə ɡˌoʊ tə ðɪ ˈɛdʒᵻz.|You have to go to the edges.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_sad_level1_028.wav|sˈoʊ, ðæt ɪz ɪt fɔːɹ ɐnˈʌðɚ jˈɪɹ.|SO, that is it for another year.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level2_024.wav|ɪt ɹˌɛpɹᵻzˈɛnts ɐ kəmplˈiːt tʃˈeɪndʒ ɪn ˈɛmfəsɪs.|It represents a complete change in emphasis.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level1_024.wav|bˌʌt wiː hæv lˈɜːnd ðˌɐɾɪt dˈʌzənt.|But we have learned that it doesn't.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level3_024.wav|ðɛɹˌɑːɹ nˈoʊ ɛkskjˈuːsᵻz lˈɛft fɔːɹ ˌʌs.|There are no excuses left for us.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_angry_level3_011.wav|aɪm lˈʊkɪŋ fˈɔːɹwɚd tə fˈeɪsɪŋ ðɪ ˈaɪɹɪʃmˌɛn.|I'm looking forward to facing the Irishmen.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_angry_level1_011.wav|ɪɾ ɪz ɐ kwˈɛstʃən ʌv lˈaɪf ænd dˈɛθ.|It is a question of life and death.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_angry_level2_011.wav|ðɐtsbˌɪn ðə kˈeɪs fɚɹə wˈaɪl.|That's been the case for a while.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_fear_level3_022.wav|ˈɪnəsənt pˈiːpəl hæv ɐ ɹˈaɪt tə lˈɪv ɪn sˈeɪfti.|Innocent people have a right to live in safety.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_fear_level2_022.wav|kˈɛltɪk ɑːɹ sˈɪmpli tɹˈaɪɪŋ tə bˈaɪ tˈaɪm baɪ nˌɑːt pˈeɪɪŋ ðə mˈʌni.|Celtic are simply trying to buy time by not paying the money.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_fear_level1_022.wav|ɐ ɡɹˈeɪt dˈiːl wʌz ɐtʃˈiːvd.|A great deal was achieved.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_angry_level3_024.wav|wiː ɑːɹ ˈoʊnli hjˈuːmən.|We are only human.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_angry_level1_024.wav|hiː ʃˌʊdəv ˈæskt fɚɹə sˈɛkənd əpˈɪniən.|He should have asked for a second opinion.
+/home/mila/j/jeony/scratch/MEAD_processed/M019_angry_level2_024.wav|ʃiː wˈɔntᵻd tə mˈuːv.|She wanted to move.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_surprised_level1_016.wav|ðæt ɪz haʊˈɛvɚ, ðɪ ˈoʊnli pˈɑːɹt ʌvðə stˈoːɹi.|That is however, the only part of the story.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_surprised_level3_016.wav|ðə fˈɜːst mˈɪnɪstɚɹ ɪz ɐn ˈædɪkt.|The First Minister is an addict.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_surprised_level2_016.wav|hiː wˈɔnts tə plˈeɪ ɪnðə tʃˈæmpiənz lˈiːɡ.|He wants to play in the Champions League.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_angry_level3_023.wav|ˈɑːɹt ɪz stˈɪl ɐ ɹˈɪski ɪnvˈɛstmənt.|Art is still a risky investment.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_angry_level1_023.wav|ɪt wʌz sˈɜːʔn̩li ɪntˈɛns.|It was certainly intense.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_angry_level2_023.wav|hiː ˈædᵻd, wiː ɑːɹ fˈʊl ʌv ˈæŋɡɚ.|He added, We are full of anger.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_neutral_level1_028.wav|aɪ bᵻlˈiːv ɪŋ ɡˈɑːd.|I believe in God.
+/home/mila/j/jeony/scratch/MEAD_processed/W025_neutral_level1_022.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ɪɾ ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.|Since then physicists have found it is not reflection, but refraction by the raindrops which causes the rainbows.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_neutral_level1_009.wav|sˈɛvən bɹˈɪɾɪʃ mˈɛmbɚz ʌvðə klˈʌb ɑːɹ mˈɪsɪŋ.|Seven British members of the club are missing.
+/home/mila/j/jeony/scratch/MEAD_processed/W035_neutral_level1_002.wav|ðɪs kʊd ˈɔːlsoʊ ɐfˈɛkt ðə sˈɛntənsɪŋ.|This could also affect the sentencing.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level2_030.wav|aɪ lˈʌv ðɪs dʒˈɑːb.|I love this job.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level1_030.wav|wˈɛl, ɪt wʌz sˈɜːʔn̩li dˈɪfɹənt.|Well, it was certainly different.
+/home/mila/j/jeony/scratch/MEAD_processed/M022_sad_level3_030.wav|haʊˈɛvɚ, ˌɔn ðɪs ʃˈoʊɪŋ ɪts ɡˌoʊɪŋ təbi ɐ dˈɪfɪkəlt tˈæsk.|However, on this showing it's going to be a difficult task.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level3_017.wav|wiː ɑːɹ vˈɛɹi, vˈɛɹi plˈiːzd wɪððə ɹᵻspˈɑːns.|We are very, very pleased with the response.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level2_017.wav|ðə stˈæf ɑːɹ vˈɛɹi ɡˈʊd.|The staff are very good.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level1_017.wav|ɪts lˈaɪk ɐ skˈoːɹ ɪn sˌʌm wˈeɪz.|It's like a score in some ways.
+/home/mila/j/jeony/scratch/MEAD_processed/M037_fear_level1_023.wav|hˈæɹi wɪl biː ˈʌp fɔːɹ ɪt.|Harry will be up for it.
+/home/mila/j/jeony/scratch/MEAD_processed/M037_fear_level3_023.wav|dʒˈɪm həznɑːt bˌɪn ɐ pɹˈɑːbləm fɔːɹ mˌiː æɾ ˈɔːl.|Jim has not been a problem for me at all.
+/home/mila/j/jeony/scratch/MEAD_processed/M037_fear_level2_023.wav|ðɛɹz ˈɔːlweɪz ɐ tʃˈæns.|There's always a chance.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_angry_level1_016.wav|ɪts ɐ wˈʌndɚfəl pˈiːs ʌv wˈɔːɾɚ.|It's a wonderful piece of water.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_angry_level2_016.wav|ˈɔːl ɪz nˈaʊ fɚɡˈɪvən.|All is now forgiven.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_angry_level3_016.wav|aɪɐm nˌɑːt hˈɪɹ tə ɡɛt ˈiːvən.|I am not here to get even.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_neutral_level1_025.wav|maɪ æmbˈɪʃən ɪz tə tˈɛl ɐ ɡˈʊd stˈoːɹi.|My ambition is to tell a good story.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_angry_level1_007.wav|skˈɑːɾɪʃ fˈɪʃɚmˌɛŋ kəmˈɛndᵻd ðə dᵻsˈɪʒən.|Scottish fishermen comended the decision.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_angry_level2_007.wav|sˈædli, ɪt dʌznˌɑːt ˈɛnd ðˈɛɹ.|Sadly, it does not end there.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_angry_level3_007.wav|ðɪ ˈʌðɚ kəndˈɪʃənz wɜː nˌɑːt spˈɛsᵻfˌaɪd.|The other conditions were not specified.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level3_007.wav|lˈeɪbɚɹ ɪz pɹəvˈaɪdɪŋ nˈʌn ʌv ðˈiːz.|Labour is providing none of these.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level1_007.wav|wiː wɜː ɡˌɛɾɪŋ vˈɛɹi wˈʌɹid.|We were getting very worried.
+/home/mila/j/jeony/scratch/MEAD_processed/M013_happy_level2_007.wav|ðə fˈɜːst mˈɪnɪstɚɹ ɪz ɐn ˈædɪkt.|The First Minister is an addict.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level3_028.wav|ðə ɹᵻpˈoːɹt wʌz kɹˈɪɾɪsˌaɪzd baɪ ðə skˈɑːɾɪʃ kənsˈuːmɚ kˈaʊnsəl.|The report was criticised by the Scottish Consumer Council.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level2_028.wav|wɪɹ vˈɛɹi plˈiːzd ɐbˌaʊt ðə vˈɜːdɪkt.|We're very pleased about the verdict.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_sad_level1_028.wav|ɪz ðæt wʌt pˈiːpəl wiː wˈɔnt?|Is that what people we want?
+/home/mila/j/jeony/scratch/MEAD_processed/M012_neutral_level1_036.wav|ðɪs wʌz nˈoʊ ˈæksɪdənt.|This was no accident.
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level3_025.wav|ðɛɹ kəŋklˈuːʒənz wɜː nˈɛvɚ pˈʌblɪʃt.|Their conclusions were never published.
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level1_025.wav|sˌoʊ juː θˈɪŋk juː wˈɔnt təbi vɪktˈoːɹiə?|So You Think You Want  to be Victoria?
+/home/mila/j/jeony/scratch/MEAD_processed/M029_surprised_level2_025.wav|ðæt ɪz ɐ bɹˈænd nˈeɪm.|That is a brand name.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level1_016.wav|lˈɛt ðɛɹbˈiː nˈoʊ dˈaʊt ɐbˌaʊt ðˈæt.|Let there be no doubt about that.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level2_016.wav|aɪ fˈiːl maɪ pˈɛɹənts ɑːɹ ɪn nˈuː jˈɔːɹk.|I feel my parents are in New York.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level3_016.wav|wiː kˈænt wˈɪn ɐ bˈɪɡ ɡˈeɪm.|We can't win a big game.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_fear_level3_024.wav|ɪts ˈɔːlweɪz ɐ ɹᵻhˈɜːsəl.|It's always a rehearsal.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_fear_level2_024.wav|hˈɪstɚɹi ɪz jˈuːʒuːəli ɹˈɪʔn̩ baɪ ðə vˈɪktɚz.|History is usually written by the victors.
+/home/mila/j/jeony/scratch/MEAD_processed/W019_fear_level1_024.wav|aɪ hæv hæd ɐ wˈʌndɚfəl kɚɹˈɪɹ.|I have had a wonderful career.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_surprised_level2_017.wav|ɪt hɐzbɪn ɪn plˈeɪs sˈɪns lˈæst dʒuːlˈaɪ.|It has been in place since last July.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_surprised_level3_017.wav|nˈoːɹsɪmˌɛŋ kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.|Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_surprised_level1_017.wav|ʃiːz nˈaʊ ɔnðə bˈæk bˈɛntʃᵻz.|She's now on the back benches.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level1_012.wav|ʃiː ɪz ɐn ˈeɪndʒəl.|She is an angel.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level2_012.wav|ðeɪ dɪdnˌɑːt ɐtˈæk ðə θˈiːmz ʌvðə bˈʊk.|They did not attack the themes of the book.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level3_012.wav|ðæt wʊd biː ðə kˈeɪs wɪð dˈʌndiː.|That would be the case with Dundee.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_neutral_level1_002.wav|sˈædli, ðeɪ dɪdnˈɑːt.|Sadly, they did not.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level3_030.wav|aɪ fˈaʊnd ðə kˈoːɹs ɪnspˈaɪɚɹɪŋ.|I found the course inspiring.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level2_030.wav|hiː ɪz sɚvˈaɪvd baɪ hɪz wˈaɪf ænd tˈuː sˈʌnz.|He is survived by his wife and two sons.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_sad_level1_030.wav|hiː dˈɪdnt ɡɛt ˈaʊt mˈʌtʃ.|He didn't get out much.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_fear_level3_025.wav|bɹˈoʊk dˌaʊn ænd kˈænt biː fˈɪkst.|Broke down and can't be fixed.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_fear_level1_025.wav|wiː ɑːɹ ɔːlɹˌɛdi ˌʌndɚ pɹˈɛʃɚ.|We are already under pressure.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_fear_level2_025.wav|aɪ dˈoʊnt nˈoʊ wʌt ɪt mˈiːnz.|I don't know what it means.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_neutral_level1_009.wav|sˈiːmz ɐ sˈɛnsᵻbəl kˈɑːmpɹəmˌaɪz.|Seems a sensible compromise.
+/home/mila/j/jeony/scratch/MEAD_processed/W024_neutral_level1_022.wav|hiː dᵻnˈaɪd ðæt tˈækspeɪɚz mˈʌni wʌz ɪnvˈɑːlvd.|He denied that taxpayers money was involved.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level1_017.wav|sˌoʊ hˌuː ɪz ɹˈaɪt?|So who is right?
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level2_017.wav|aɪd lˈʌv tə hɐvbɪn ɔnðə pˈɪtʃ.|I'd love to have been on the pitch.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level3_017.wav|dˈuː wiː wˈɔnt tə sˈiː ɪt?|Do we want to see it?
+/home/mila/j/jeony/scratch/MEAD_processed/M023_neutral_level1_023.wav|aɪ ˈɔːlweɪz wˈɔntᵻd hɜː təbi hˈæpi.|I always wanted her to be happy.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level2_008.wav|hiː fˈaʊnd ɪt vˈɛɹi hˈɑːɹd tʊ ˌʌndɚstˈænd.|He found it very hard to understand.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level1_008.wav|ˈɛvɹɪθˌɪŋ ɪz sˌoʊ kəmˈɜːʃəl.|Everything is so commercial.
+/home/mila/j/jeony/scratch/MEAD_processed/M007_happy_level3_008.wav|ɪɾ ˈɔːlsoʊ mˌeɪks ɐ hˈæbɪt ʌv kəlˈɛktɪŋ pˈiːpəl.|It also makes a habit of collecting people.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level1_022.wav|ðɪ ˈɔːɹdɚ wɛnt ˈaʊt.|The order went out.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level2_022.wav|ˈɪŋɡlənd wɪl biː kwˈaɪt pɹɪpˈɛɹd.|England will be quite prepared.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level3_022.wav|ðæt wˈʌzn̩t fɔːɹ mˌiː.|That wasn't for me.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_happy_level2_016.wav|ænd wiː hæd ɐ ɡˈʊd ɹᵻspˈɑːns.|And we had a good response.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_happy_level3_016.wav|ðɪs klˈʌb ɪz pˈɜːfɛkt fɔːɹ mˌiː.|This club is perfect for me.
+/home/mila/j/jeony/scratch/MEAD_processed/M026_happy_level1_016.wav|wiː ɑːɹ ɪnðə bˈɪznəs ʌv sˈɛlɪŋ tˈɪkɪts.|We are in the business of selling tickets.
+/home/mila/j/jeony/scratch/MEAD_processed/M035_neutral_level1_017.wav|smˈɪθ kənfˈɜːmd ðæt ðɛɹ kˈɑːnfɪdəns wʌz ɹᵻtˈɜːnɪŋ.|Smith confirmed that their confidence was returning.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level2_017.wav|ɪt wʌz dʒˈʌst ɐnˈʌðɚ plˈeɪ.|It was just another play.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level3_017.wav|wiː kæn dˈuː nˈʌθɪŋ ɐbˌaʊt ðˈæt.|We can do nothing about that.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level1_017.wav|wiː ɑːɹ dᵻlˈaɪɾᵻd wɪððə ɹɪzˈʌlt.|We are delighted with the result.
+/home/mila/j/jeony/scratch/MEAD_processed/M034_neutral_level1_007.wav|ɪɾ ɪz tˈaɪm fɔːɹ kənfˈɛʃən.|It is time for confession.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_sad_level2_028.wav|bˌʌt ðə stˈoːɹi ʌvðə plˈeɪ ɪz wˈɜːθ ɐ plˈeɪ ɪn ɪtsˈɛlf.|But the story of the play is worth a play in itself.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_sad_level3_028.wav|aɪ hɐdbɪn hˈoʊpɪŋ fɔːɹ dʒˈʌstɪs.|I had been hoping for justice.
+/home/mila/j/jeony/scratch/MEAD_processed/M033_sad_level1_028.wav|ʃiː kæn spˈuːn ðiːz θˈɪŋz ˌɪntʊ hɜː θɹˈiː bˈæɡz, ænd wiː wɪl ɡˌoʊ mˈiːt hɜː wˈɛnzdeɪ æt ðə tɹˈeɪn stˈeɪʃən.|She can spoon these things into her three bags, and we will go meet her Wednesday at the train station.
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level2_017.wav|sˌoʊ wʌt wɛnt ɹˈɔŋ?|So what went wrong?
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level1_017.wav|wˌʌt ɪz ðə pˈɔɪnt ʌv dʒˈeɪlɪŋ hˌɪm?|What is the point of jailing him?
+/home/mila/j/jeony/scratch/MEAD_processed/M031_sad_level3_017.wav|sˈʌdənli, dᵻɹˈɛktɪŋ wʌzðə θˈɪŋ hiː wˈɔntᵻd tə dˈuː.|Suddenly, directing was the thing he wanted to do.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_angry_level3_028.wav|wiː dɪdnˌɑːt plˈeɪ wˈɛl.|We did not play well.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_angry_level1_028.wav|ɪts ɪnðɪ ˈaɪz.|It's in the eyes.
+/home/mila/j/jeony/scratch/MEAD_processed/W014_angry_level2_028.wav|fˈaɪnəli ˈækʃən hɐdbɪn tˈeɪkən.|Finally action had been taken.
+/home/mila/j/jeony/scratch/MEAD_processed/W038_fear_level2_008.wav|ðeɪ hæv sˈɛt ðə stˈændɚd.|They have set the standard.
+/home/mila/j/jeony/scratch/MEAD_processed/W038_fear_level1_008.wav|wiː ɑːɹ tɹˈaɪɪŋ tə dˈuː ɪt pɹˈɑːpɚli.|We are trying to do it properly.
+/home/mila/j/jeony/scratch/MEAD_processed/W038_fear_level3_008.wav|ðə wˈɜːld ɪz ɐ ɡˈʊd plˈeɪs.|The world is a good place.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level2_012.wav|ɐn ˈɪŋkwɚɹi hɐz bɪɡˈʌn.|An inquiry has begun.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level3_012.wav|aɪ dˈoʊnt hæv ɐ pɹˈɑːbləm wɪð ɪt.|I don't have a problem with it.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_surprised_level1_012.wav|aɪ kˈænt sˈiː hˌɪm ɹᵻvˈɜːsɪŋ ðˈæt.|I can't see him reversing that.
+/home/mila/j/jeony/scratch/MEAD_processed/M005_neutral_level1_023.wav|wˈʌn θˈɪŋ ɪz sˈɜːʔn̩.|One thing is certain.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_fear_level1_008.wav|lˈaɪf ɪz tˈuː ʃˈɔːɹt təbi bˈɪɾɚ.|Life is too short to be bitter.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_fear_level2_008.wav|ðɪs ɪz ɐn ˈɪntɹɪstɪŋ lˈɪŋk.|This is an interesting link.
+/home/mila/j/jeony/scratch/MEAD_processed/W011_fear_level3_008.wav|wiː ɑːɹ wˈeɪɾɪŋ fɚðə mˈɪnɪstɚ tə kˈʌm bˈæk wɪð ɐn ˈænsɚ.|We are waiting for the Minister to come back with an answer.
+/home/mila/j/jeony/scratch/MEAD_processed/M042_fear_level1_009.wav|ɪt ʃˌʊd biː ɐ pɹˈɪɾi ɛksˈaɪɾɪŋ sˈɛʃən.|It should be a pretty exciting session.
+/home/mila/j/jeony/scratch/MEAD_processed/M042_fear_level3_009.wav|ðɪs ɪz ɐ bˈɪznəs.|This is a business.
+/home/mila/j/jeony/scratch/MEAD_processed/M042_fear_level2_009.wav|bˌʌt aɪ wʌz ɡlˈæd tə sˈiː ðiːz ˈɪntɚvjˌuːz.|But I was glad to see these interviews.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_surprised_level1_016.wav|ðɪs mˈɛʒɚɹ ɪz nˌɑːt ɐdʒˈʌstᵻd fɔːɹ sˈiːzənəl fˈæktɚz.|This measure is not adjusted for seasonal factors.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_surprised_level2_016.wav|ðə ɡɹˈiːks jˈuːzd tʊ ɪmˈædʒɪn ðˌɐɾɪt wʌzɐ sˈaɪn fɹʌmðə ɡˈɑːd tə foːɹtˈɛl wˈɔːɹ ɔːɹ hˈɛvi ɹˈeɪn.|The Greeks used to imagine that it was a sign from the god to foretell war or heavy rain.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_surprised_level3_016.wav|maɪ fˈæmɪli, hˈɛlθ ænd ɡˈɑːlf ɪz ˈɔːlweɪz ɐ bˈælənsɪŋ ˈækt.|My family, health and golf is always a balancing act.
+/home/mila/j/jeony/scratch/MEAD_processed/M041_sad_level1_008.wav|ɪɾ ɪz bˈɛst vˈæljuː.|It is best value.
+/home/mila/j/jeony/scratch/MEAD_processed/M041_sad_level2_008.wav|skˈɑːtlənd plˈeɪd ɐ mˈeɪdʒɚ pˈɑːɹt ɪnðə pɹˈɑːdʒɛkt.|Scotland played a major part in the project.
+/home/mila/j/jeony/scratch/MEAD_processed/M041_sad_level3_008.wav|ænd dˈuː juː nˈoʊ, ɪt dʒˈʌst wˈʌzn̩t ðə sˈeɪm.|And do you know, it just wasn't the same.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_surprised_level2_007.wav|wˌʌt wʌz ðæt ˈɔːl ɐbˈaʊt?|What was that all about?
+/home/mila/j/jeony/scratch/MEAD_processed/M011_surprised_level3_007.wav|ɪts dˈɪfɪkəlt tə pˌʊt ɐ dˈeɪt ˈɔn.|It's difficult to put a date on.
+/home/mila/j/jeony/scratch/MEAD_processed/M011_surprised_level1_007.wav|ðɛɹ æmbˈɪʃən ɪz tə ɡˌoʊ bˈæk.|Their ambition is to go back.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_angry_level3_016.wav|ɪt wɪl nˌɑːt biː ɐ lˈɔŋ kæmpˈeɪn.|It will not be a long campaign.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_angry_level2_016.wav|aɪ θˈɪŋk ʃiː wʌz ɹˈaɪt.|I think she was right.
+/home/mila/j/jeony/scratch/MEAD_processed/W016_angry_level1_016.wav|ðɪs ɪz ɐ pˈɑːsᵻbəl wˈeɪ fˈɔːɹwɚd.|This is a possible way forward.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level3_027.wav|hiː hɐz hæd səksˈɛs æɾ ˈɛvɹi lˈɛvəl.|He has had success at every level.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level2_027.wav|ðə mˈɛsɪdʒ ɪz dʒˈʌst nˌɑːt ɡˌɛɾɪŋ θɹˈuː.|The message is just not getting through.
+/home/mila/j/jeony/scratch/MEAD_processed/W015_angry_level1_027.wav|aɪ θˈɪŋk hiːz ðə fˈeɪvɹɪt.|I think he's the favourite.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level3_023.wav|ðɪs ɪz ˈoʊnli wˈʌn ɛɡzˈæmpəl.|This is only one example.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level1_023.wav|ðeɪ mˌeɪd ɪt vˈɛɹi dˈɪfɪkəlt fɔːɹ ˌʌs.|They made it very difficult for us.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_fear_level2_023.wav|wiː ɑːɹ nˌɑːt ˈɪntɹɪstᵻd ɪn dˈɪvɪdˌɛndz.|We are not interested in dividends.
+/home/mila/j/jeony/scratch/MEAD_processed/W028_neutral_level1_028.wav|aɪ tʃˈoʊz tə ɡˌoʊ baɪ ðə ɹˈuːlz.|I chose to go by the rules.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level3_028.wav|wiː nˈoʊ wiː hæv dˈʌn ɹˈɔŋ.|We know we have done wrong.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level1_028.wav|ðeɪ kʊd nˌɑːɾɐv dˈʌn mˈoːɹ fɔːɹ mˌiː.|They could not have done more for me.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_surprised_level2_028.wav|jʊɹ ɡˌoʊɪŋ tə tˈeɪk ɐwˈeɪ maɪ lˈaɪf.|You're going to take away my life.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_happy_level2_019.wav|ðə pɹˈɑːbləm wʌz hiː θˈɔːt juː wɜːɹ ɐ bˈɪɡ mˈæn.|The problem was he thought you were a big man.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_happy_level1_019.wav|lˈɛts nˌɑːt ɡˌoʊ ˌoʊvɚbˈoːɹd.|Let's not go overboard.
+/home/mila/j/jeony/scratch/MEAD_processed/M040_happy_level3_019.wav|ænd wiː wɜː ɹˈaɪt.|And we were right.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_surprised_level1_008.wav|ʃiː wʌz ˈɔːlweɪz ɐ kwˈɔlɪɾi ˈækt.|She was always a quality act.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_surprised_level3_008.wav|ɐ nˈeɪbɚ sˈɛd ðə stɹˈiːt wʌz ʃˈɑːkt.|A neighbour said the street was shocked.
+/home/mila/j/jeony/scratch/MEAD_processed/W037_surprised_level2_008.wav|wiː ˈɔːlsoʊ hæv hædtə wˈɜːk ðə dˈɑːɹk sˈaɪd, ɪf juː wˈɪl.|We also have had to work the dark side, if you will.
+/home/mila/j/jeony/scratch/MEAD_processed/W033_surprised_level2_002.wav|wiː mˈʌst ɪmpɹˈuːv ˌaʊɚ ɹᵻlˈeɪʃənz wɪððə ɡˈʌvɚnmənt.|We must improve our relations with the government.
+/home/mila/j/jeony/scratch/MEAD_processed/W033_surprised_level1_002.wav|wˌɛɹ ɪz ðə stɹˈʌktʃɚ?|Where is the structure?
+/home/mila/j/jeony/scratch/MEAD_processed/W033_surprised_level3_002.wav|ɪt wʌz sˈɛt ɪn ɐ kˈæfeɪ.|It was set in a cafe.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_angry_level3_001.wav|ðeɪɚ kəmplˈiːtli dˈɪfɹənt fɹʌm ˈiːtʃ ˈʌðɚ.|They're completely different from each other.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_angry_level2_001.wav|ɪɾ ɪz ɐ fˈæmɪli dˈeɪ ˈaʊt.|It is a family day out.
+/home/mila/j/jeony/scratch/MEAD_processed/M025_angry_level1_001.wav|nˈoʊwˈʌn ʃˌʊd sˈiː ðˈæt.|No-one should see that.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_fear_level1_024.wav|dˈuː ɪt fɔːɹ ˌʌs nˈaʊ.|Do it for us now.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_fear_level2_024.wav|ðeɪ wɜː mˈæɹid ɪn ˈɛdɪnbʌɹə lˈæst sˈʌmɚ.|They were married in Edinburgh last summer.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_fear_level3_024.wav|fɹˈæŋkli, wiː wɜː lˈʌki tə ɡɛt sˈɛkənd.|Frankly, we were lucky to get second.
+/home/mila/j/jeony/scratch/MEAD_processed/M027_happy_level1_009.wav|ɪt hɐzbɪn ɐ mˈeɪdʒɚ səksˈɛs.|It has been a major success.
+/home/mila/j/jeony/scratch/MEAD_processed/M027_happy_level2_009.wav|wiː ɹᵻɡɹˈɛt ðæt ðeɪ wɜː bɹˈɔːt ɪnðə fˈɜːst plˈeɪs.|We regret that they were brought in the first place.
+/home/mila/j/jeony/scratch/MEAD_processed/M027_happy_level3_009.wav|ðæt ɪz wˌɛɹ ˌaʊɚ fjˈuːtʃɚ lˈaɪz.|That is where our future lies.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_sad_level2_008.wav|aɪm ʃˈʊɹ ðæt ɪz nˈɑːt.|I'm sure that is not.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_sad_level1_008.wav|ðɪ ˈʌðɚ kəndˈɪʃənz wɜː nˌɑːt spˈɛsᵻfˌaɪd.|The other conditions were not specified.
+/home/mila/j/jeony/scratch/MEAD_processed/W018_sad_level3_008.wav|hiː ɹᵻfjˈuːzd tə ɹᵻvˈiːl ðə ɹˈiːzənz fɚðə splˈɪt.|He refused to reveal the reasons for the split.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level1_011.wav|nˈɔːɹ ɪz hiː ɐlˈaʊd ˈaʊt wɪðˌaʊt pɚmˈɪʃən.|Nor is he allowed out without permission.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level3_011.wav|ðɪ əkˈeɪʒən wʌzðə nˈuː lˈeɪbɚ kˈɑːnfɹəns ɪn bɹˈaɪtən lˈæst jˈɪɹ.|The occasion was the New Labour conference in Brighton last year.
+/home/mila/j/jeony/scratch/MEAD_processed/M028_happy_level2_011.wav|fɔːɹ nˈaʊ, ðeɪ hæv ɡɔn æz fˈɑːɹ æz ðeɪ kˈæn.|For now, they have gone as far as they can.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level1_017.wav|ðæts nˌɑːt ðɪ ɪntˈɛnʃən æɾ ˈɔːl.|That's not the intention at all.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level2_017.wav|jˈɛt ɪt dʌznˌɑːt lˈuːz ɐpˈiːl.|Yet it does not lose appeal.
+/home/mila/j/jeony/scratch/MEAD_processed/M023_sad_level3_017.wav|lˈɛts sˈiː ðæt ˈɪnkɹiːs ˌoʊvɚ ðə jˈɪɹz.|Let's see that increase over the years.
+/home/mila/j/jeony/scratch/MEAD_processed/M024_neutral_level1_017.wav|dˈaɪvɪŋ ɪz nˈoʊ pˈɑːɹt ʌv fˈʊtbɔːl.|Diving is no part of football.

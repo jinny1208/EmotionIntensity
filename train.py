@@ -58,7 +58,7 @@ from text.symbols import symbols
 torch.backends.cudnn.benchmark = True
 global_step = 0
 
-VCTK_CHECKPOINT = "G_350000.pth"   # path to VCTK backbone checkpoint
+VCTK_CHECKPOINT = "G_800000.pth"   # path to VCTK backbone checkpoint
 
 
 def main():
